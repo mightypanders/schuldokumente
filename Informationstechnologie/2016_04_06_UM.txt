@@ -1,3 +1,28 @@
 Wir können uns bei der Rückfahrt schön Zeit lassen von der Dahnstraße
 KV Diagramm: graphische Darstellung der Wahrheitstabelle
   Karnaugh & Veitch
+
+  Klausurthemen:
+      Digitaltechnik (alles von heute)
+      KV Diagramm
+      De Morgan
+      DNF
+      Gatter
+      Wahrheitstabelle
+      BleiAkku
+      Ladung & Strom
+      (Testinhalte)
+      USV
+        Arten
+        Blitzschlag
+        Begründungen für Wahl
+      Gleichrichter/wechselrichter
+
+      Dauer 90min
+
+  Freitag Vorwarnung
+    Waffeln?!!
+    Bitte schön melden, wenn nach Antworten gefragt wird!
+
+Datenmenge (bit) = frequenz (Hz) * samplingrate(bit/s) * zeit (sekunden)
+m=f*s*t
