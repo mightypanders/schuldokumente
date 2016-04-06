@@ -1,0 +1,3 @@
+Wir können uns bei der Rückfahrt schön Zeit lassen von der Dahnstraße
+KV Diagramm: graphische Darstellung der Wahrheitstabelle
+  Karnaugh & Veitch
