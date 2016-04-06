@@ -15,3 +15,13 @@ Liquidität 3. Grades
       sicher im Besitz, langfristig als Arbeitsmittel einsetzbar
 
   Vorräte: Rohstoffe, Waren auf Lager, Hilfsstoffe
+
+Cash Flow = Jahresgewinn + Abschreibung
+
+Abschreibung
+  Wertverlust entsteht durch Abnutzung etc
+  gebrauchtes Auto ist weniger wert als neues
+  Nutzungsdauer tabellen beim Finanzamt
+    bsp. auto 5 jahre
+  Anschreibungskosten/Nutzungsdauer = Nutzungswert : lineare Abschreibung
+  Im Gewinn und Verlustkonto zu finden und Eigenkapital
