@@ -1,0 +1,16 @@
+Gerichtsstand
+  Der Ort an dem nichterfüllende Vertragspartner verklagt werden kann
+
+Örtliche Zuständigkeit
+  gesetzlicher
+    allgemeiner: Nichtkaufleute -> Ort des Beklagten
+    besonderers: zwischen Kaufleuten
+      Erfüllungsort -> gerichtsstand
+      Warenschulden -> Ort des Verkäufers
+      Geldschulden -> Ort des Käufers
+  Vertraglicher
+    Kaufleute / Juristische personen können Gerichtsstand frei vereinbaren
+
+Sachliche Zuständigkeit
+  x < 5.000€ -> Amtsgericht
+  x > 5.000€ -> zuständiges Landgericht
