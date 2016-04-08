@@ -29,14 +29,18 @@ Erhebungstechnicken
 
 Gruppe 1:
   Dokumentenstudium
-    Aktualität, Aussagefähigkeit, Vollständigkeit prüfen
+    Aktualität wichtig damit keine veralteten Informationen Beobachtet werden
+    Aussagefähigkeit, Vollständigkeit prüfen
   Beobachtung
+    bewusste Beobachtung verfälscht Ergebnisse, aber ungewusst: Illegal
+    Zustimmung vom betriebsrat meist nötig
     alle sinnlich aufnehmbaren Sachverhalte aufnehmen
     Prozesse + Sachverhalte aufnehmen
   Dauerbeobachtung
     Beobachtungskategorien
     einheitliche Erfassung + Auswertung
   Multimomentstudie
+    festgelegte Woche in der die Beobachtung stattfinden wird
     Stichprobenartige Beobachtung
   Selbstaufschreibung
     Tagesbericht erstellen
@@ -47,7 +51,7 @@ Gruppe 1:
   Laufzetteltechnik
     Laufzettel wir an Informationsträger gehftet
       beteiligung, schnittstellen, arbeitsprozess vor Laufzettelaktion bekannt
-      
+
 Gruppe 2:
 Interview
   psychologische Belastung minimieren
@@ -111,3 +115,13 @@ Fragebogen
     Probelauf: Test auf Verständlichkeit
     Korrekturfassung: Überarbeitung anhand der Kritikpunkte
   Schreiben muss non-provokativ sein, Versicherung der Vertrauchlichkeit
+
+
+
+Multimomentstudie
+  erwartung:
+    Kundengespräche
+    Kundendatenpflegen
+    Rechnungen Schreiben
+    Angebote erstellen
+    Kaffe trinken
