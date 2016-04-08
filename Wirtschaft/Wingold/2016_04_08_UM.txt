@@ -1,0 +1,93 @@
+Ablauforganisation
+
+Wie bearbeiten wir eine Aufgabe / erreichen wir unsere Ziele?
+betriebliche Leistung zu geringstmöglichen Kosten:
+    - Durchlaufzeiten minimieren
+    - Auslastung optimieren
+
+    Ablauforganisation
+      - Zeit
+      - Funktion
+      - Raum
+
+      Darstellung von arbeitsabläufen
+      Optimierung von arbeitsabläufen
+
+Prozessoptimierung (Vgl PAP) siehe Grafik 1
+
+Hilfsmittel der Ablauforganisation
+- Methoden der Ist-Aufnahme
+  z.B. Beobachtung, Befragung
+- Darstellung von Arbeitsabläufen
+  z.B. Balkendiagramme, Netzplantechnik, Arbeitsablaufkarte
+- Kreativitätstechniken
+
+Arbeitsblatt: Grundlegende Strukturen, Arbeitsauftrag
+Arbeitsblatt: Erhebungstechniken
+
+Erhebungstechnicken
+
+Gruppe 1:
+Gruppe 2:
+Interview
+  psychologische Belastung minimieren
+  positives Gesprächsklima (<= 2 Personen)
+  in vertrauter Umgebung
+  stichwortartige Fixierung, mehr würde Fluß stören
+  vorbereiteter Leitfaden
+  30-45 min, bei mehr -> Pausen
+  standardisiertes Interview
+    genauer Fragenkatalog
+    schrittweises Vorgehen
+    kann von laien durchgefürht werden
+  halbstandardisiertes Interview
+    fester Themenblock
+    flexible Fragen
+  nicht-standardisiertes Interview
+    stichwortartiger Leitfaden
+    braucht geschulten Interviewer
+  Interviewformen
+    weich
+      angenehme Athmosphäre
+      hilfreicher Interviewer
+      persönliche Beziehung / Vertrauen
+    hart
+      Verhörsituation
+      Befragten aus der Reserver locken
+    neutral
+      freundlich aber zurückhalten
+      sachzielorientiert
+      hilfreich, aber kein eigener Standpunkt vom Interviewer
+  Phasen des Interviews
+    Einleitung
+      Begrüßung
+      Begründung für Interview
+    Sachliche Erhebung
+      Sammlung von Informationen
+      gezielte Ist Zustand Erhebung
+      Stärken, Schwächen, Ursachen & Lösungen
+
+      KROKUS
+        Kurze Fragen
+        Redundante Fragen vermeiden
+        Offene Fragen stellen
+        Konkrete Fragen stellen
+        Unterfragen vermeiden
+        suggestive Fragen vermeiden
+    Ausklang
+      Ausblick, weiteres Vorgehen erläutern
+Fragebogen
+  vergleichbar mit standardisiertem Interview
+    Fragen werden schriftlich festgehalten und versandt
+    geschlossene Fragen mit Antwortmöglichkeiten stehen im Vordergrund
+    offene Fragen für Anregungen
+  eignet sich besonders für quantivtative Sachverhalte, große Menge an Befragten
+    homogener Kreis der Befragten
+  wahrt Anonymität
+  Ablauf
+    Entwurf -> Probelauf -> Korrekturfassung -> Lauf -> Auswertung
+
+    Entwurf: formulierung von eindeutigen Fragen, Erstellung eines Begleitbriefs
+    Probelauf: Test auf Verständlichkeit
+    Korrekturfassung: Überarbeitung anhand der Kritikpunkte
+  Schreiben muss non-provokativ sein, Versicherung der Vertrauchlichkeit
