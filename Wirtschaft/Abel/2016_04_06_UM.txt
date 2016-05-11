@@ -55,7 +55,7 @@ Abschreibung
       --------------------------
       BW ENDE 5.J            0,-
 
-      Kauf am 15.3.2000
+      Kauf am 15.3.2000 Zeitanteilige Abschreibung
       BW 1.1.2000       50.000,-
 
       50.000*10 / 5*12 = 8.333,-
