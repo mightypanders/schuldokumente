@@ -1,3 +1,0 @@
-Übertragungsfehler
-A                       B
-1100 0011 -------> 1100 0001
