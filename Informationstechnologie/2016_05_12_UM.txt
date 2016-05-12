@@ -1,0 +1,26 @@
+Manchester Code
+  10 Mbit Netzwerkkarten
+NRZI
+  100 Mbit glasfaser / USB / CD ROM
+MLT-3
+  10/100 Mbit
+Gigabit
+  8bit/10bit
+  5 Pegel statt 3
+
+Klausurthemen 60 Minuten
+  Energiekostenberechnung
+  Digitaltechnik
+  KV-Diagramm
+  Disjunktive Normalform
+  De Morgan
+  Gatter
+    UND, ODER, ODER NICHT
+  Gleich- und Wechselrichter
+  Leitungskodierung
+  Kanalkodierung
+  RAID?
+  Prüfsiegel
+
+Prüfsiegel
+  
