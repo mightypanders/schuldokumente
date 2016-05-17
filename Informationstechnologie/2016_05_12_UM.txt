@@ -9,6 +9,15 @@ Gigabit
   5 Pegel statt 3
 
 Klausurthemen 60 Minuten
+  Wahrheitstabelle
+  BleiAkku
+  Ladung & Strom
+  (Testinhalte)
+  USV
+    Arten
+    Blitzschlag
+    Begründungen für Wahl
+  Gleichrichter/wechselrichter
   Energiekostenberechnung
   Digitaltechnik
   KV-Diagramm
