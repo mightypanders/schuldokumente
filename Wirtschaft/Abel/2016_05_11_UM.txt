@@ -65,7 +65,8 @@ Handelsregister
   B: Kapitalgesellschaften
     AG GmbH UGH
   Öffentlichkeit http://www.handelsregister.de
+    http://www.unternehmensregister.de
+    Registergericht
     (grundbuch nur mit berechtigtem Interesse bspw.)
   genieße öffentlichen Glauben
     was da drin steht, stimmt. Berufung auf Register möglich
-  
