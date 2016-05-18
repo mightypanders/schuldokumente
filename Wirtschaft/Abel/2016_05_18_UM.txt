@@ -1,0 +1,100 @@
+Handelsregister
+  Verzeichnis
+    öffentliches,
+    elektronisch geführtes
+    Verzeichnis aller Kaufleute nach
+    HGB eines
+    Amtsgerichtsbezirks
+
+Abteilungen
+  A:
+    Einzelunternehmungen
+    Personengesellschaften
+  B:
+    Kapitalgesellschaften
+
+Unterrichtung der Öffentlichkeit
+  Eigentümer, Geschäftsführer, Vorstand, Inhaber
+  Geschäftssitz
+  Kapital
+  Firma (Firmenname + Rechtsform)
+  Haftung
+  Prokura
+  Gegenstand des Unternehmens (was machen die eigentlich?)
+  Vertretung
+
+Öffentlichkeit des Handelsregisters
+  §9 HGB: Einsicht für jeden
+  §10 HGB: Bekanntmachung im elektronischen Informations- und Kommunikationssystem
+  §15 HGB: HGB genießt öffentlichen Glauben (Eintragungen sind vertrauenswürdig)
+
+
+Erklären sie den Begriff Handelsregister:
+  Ein elektronisches Verzeichnis, öffentlich einsehbar, das alle Kaufleute nach
+  HGB eines Amtsgerichtsbezirks aufführt. Es ist unterteilt in zwei Abteilungen:
+  A für Einzelunternehmungen und Personengesellschaften und B für Kaptial-
+  gesellschaften.
+  Es führt Informationen über die Gesellschaft auf, dies schließt den Eigentümer, geschäftssitze, Kapital, Firma, Haftungspersonen Prokura, den Gegenstand des Unternehmens und die Vertretung der Geschäftsführung ein.
+Wo kann das Handelsregister eingesehen werden?:
+  Im Amtsgericht im Registergericht auf die altmodische Weise und auf www.handelsregister.de oder www.unternehmensregister.de
+Vier wesentliche Eintragungen im Handelsregister:
+  Firma, Kapital, Eigentümer, Gegenstand des Unternehmens, Haftung, Prokura
+Wer darf das Handelsregister einsehen?:
+  Jeder
+Wie werden Handelsregistereintragungen bzw. -änderungen bekanntgemacht?
+  online im Handelsregister, früher in der Zeitung
+Welche Bedeutung hat das Handelsregister?:
+  Es genießt öffentlichen Glauben, also alle Eintragungen können als wahr angesehen werden.
+  Auskunft über den Kaufmann nach HGB, wichtige Informationen
+  Klare Rechtsgrundlage
+Welche Rechtsformen werden in welchen Abteilungen des Handelsregisters geführt?:
+  A: KG OHG B: AG GmbH UGH
+Erklären sie den Begriff "öffentlicher Glaube"
+  Eintragungen sind rechtsgültig und können in einem Rechtsstreit benutzt werden
+Erklären sie anhand eines Beispiels die unterschiedliche rechtliche Wirkung
+einer Handelsregistereintragung. Verwenden sie hierfür die üblichen Fachbegriffe
+  deklaratorisch: Trägt sich ein (Ist-)Kaufmann als Geschäftsführer einer
+  Organisation, die eine kaufmännische Organisation erfordert, ins Handelsregister ein, bestätigt er seine Tätigkeit als Kaufmann.
+  Eintragung ist Rechtsbezeugend, Tatsachen sind vorher schon rechtwirksam
+  Es wird kein Recht erzeugt sondern bestätigt.
+
+  konstitutiv: Wird eine AG gegründet, wird eine juristische Person erschaffen.
+  Zeitgleich wird sie als Formkaufmann erzeugt, der nach HGB gültig ist.
+  Es wird Recht erzeugt. Tatsachen werden durch Eintragung erst rechtswirksam.
+
+
+Die Firma
+  = Name des Kaufmanns, unter dem er seine Geschäfte betreibt
+    (Kurz: Handelsname) § 17 HGB
+    - Kennzeichnender Teil (Firmenkern)
+        (§18 Abs.1 HGB)
+        Personenform (Abel GmbH)
+        Sachform (Ski Fabrik)
+        Fantasieform (Rapunzel)
+        Mischform (Abel Ski Fabrik)
+    +
+    - Rechtsformzusatz (z.B. OGH, AG)
+        (§19 Abs.1 HGB)
+
+[E.K = Eingetragener Kaufmann
+E.Kfr = Eingetragene Kauffrau]
+
+Keine Täuschung im Firmennamen
+
+
+Firma: Fälle
+
+  1: Nein, da die Firma sich nicht falsch repräsentieren darf.
+    Es ist nur eine Schuhreparatur und keine Fabrik
+  2: Dr. Bader ist Dr. der Medizin also freier Beruf, demnach kann er kein
+    Kaufmann werden.
+  3: Die Firma darf bei Namensänderung eines Gesellschafters fortgeführt werden.
+    Eine e.K. bezieht sich allerdings auf den Namen der Person und muss geändert
+    werden.
+  4a: Die Firma darf fortgeführt werden unter altem Namen.
+  4b: Eine neue Firma muss gegründet werden um das Handelsgeschäft
+  weiterzuführen
+  5: Nein, dies ist nicht möglich, da sich der Gegenstand der Unternehmung
+  ändert
+  6: Wird der Gesellschafter gewechselt, darf die Firma fortgeführt werden.
+  7: Ja, ein ergänzender Eintrag im Handelsregister ist nötig.
