@@ -2,5 +2,5 @@ WG Gesamt 1
 Religion 1
 Anwendungsentwicklung 1
 Deutsch 1
-Englisch
+Englisch 1
 IT
