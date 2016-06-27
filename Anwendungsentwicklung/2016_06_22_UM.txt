@@ -16,4 +16,21 @@ Objektorientierung
     und auch NUR diese funktionen
   "Kapselung"
   Kommunikation zwischen Objekten nur über Funktionen
-  
+
+
+Getter in C#
+  public short getNL(){
+  return NL;
+  }
+
+  Gruppenarbeit Klassenbeziehungen
+
+  Phase 1:
+    Beispiel Erstellen
+    Musterlösung erstellen, mit WIT abgleichen
+  Phase 2:
+    Kurzpräsentationen (Folie oder Digital)
+  Phase 3:
+    andere Aufgaben lösen
+    mit Musterlösungen vergleichen
+    

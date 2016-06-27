@@ -1,0 +1,14 @@
+Letztes Mal:
+Kapselungsprinzip:
+  Idee:
+    Informationen Hiding -> hinter Schnittstellen verbergen
+  Motivation:
+    Reduktion von Komplexität
+      Nur Schnittstelle muss verstanden werden
+      Nur Schnittstelen interagieren miteinander
+    Wartbarkeit
+      Änderungen innerhalb der Schnittstelle können transparent sein
+    Umsetzung in OO-Sprachen
+      alle Attribute privat deklarieren
+      Zugriff über öffentliche Schnittstellenmethoden
+      üblich (aber nicht gut) Zugriff über Getter/Setter
