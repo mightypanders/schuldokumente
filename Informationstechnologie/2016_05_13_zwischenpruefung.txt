@@ -1,4 +1,0 @@
-Arbeitsblatt Zwischenprüfung
-Aufgabe 1
-  0110 1001 XOR 1100 1000 -> 1010 0001
-  1010 0001 XOR 0011 1111 -> 1001 1110 = Paritätsbit

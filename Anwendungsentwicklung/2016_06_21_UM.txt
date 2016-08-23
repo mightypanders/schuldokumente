@@ -1,9 +1,0 @@
-Schleifen
-	break ist einem return in einer Schleife vorzuziehen
-	
-kopfgesteuert - > while
-fußgesteuert - > do - while
-zählschleife - > for
-endlosschleife - > while (true){...}
-					for (;;){...}
-						-> verlassen mit break;
