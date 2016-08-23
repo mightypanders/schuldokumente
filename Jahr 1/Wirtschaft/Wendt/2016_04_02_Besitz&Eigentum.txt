@@ -1,0 +1,11 @@
+Besitz
+  tatsächliche Herrschaft über eine Sache
+    Rechtmäßig = Benutzung eines geliehenes Fahrrads
+    Unrechtmäßig = Benutzung eines gestohlenen Fahrrads
+
+Eigentum
+  rechtliche Herrschaft über eine Sache wird erworben an ...
+    unbeweglichen Sachen
+      durch Auflassung und Eintragung ins Grundbuch (!)
+    bewegliche Sachen
+      durch Einigung und Übergabe

@@ -1,0 +1,21 @@
+Datentypen
+
+- legen wertebereiche von variablen fest
+- legen erlaubte operationen auf den werten fest
+
+Operatoren
+	Arithmetisch + - * / 	
+	vergleich < > = >= <= ==   
+	bool && ||	
+	zuweisung = (setzt Wert der Variablen auf der linken auf den wert der rechten Seite)
+besonderheit ganzzahlige Division: Nachkommastellen werden fallen gelassen
+	(-8/3=-2)
+	% modulo > gibt Rest einer Division (11/3 = 2, weil 11/3 = 3 Rest 2)
+zusammengesetzte operatoren
+i++ kurz für i=i+1 -> inkrement operator
+++ hinter variable (Suffix) -> erst ausdruck auswerten, dann erhöhen
+++ vor variable (Präfix) -> erst erhöhen, dann ausdruck auswerten
+
+analog -- Dekrement operator (auch als Prä-/Suffix)
+
++=, -=, *=, /= Bsp. a+=3 -> a = a+3

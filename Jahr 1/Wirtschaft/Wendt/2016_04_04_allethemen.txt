@@ -1,0 +1,377 @@
+Besitz
+  tatsächliche Herrschaft über eine Sache
+    Rechtmäßig = Benutzung eines geliehenes Fahrrads
+    Unrechtmäßig = Benutzung eines gestohlenen Fahrrads
+
+Eigentum
+  rechtliche Herrschaft über eine Sache wird erworben an ...
+    unbeweglichen Sachen
+      durch Auflassung und Eintragung ins Grundbuch (!)
+    bewegliche Sachen
+      durch Einigung und Übergabe
+Fähigkeit selbstständig Rechtsgeschäfte einzugehen
+
+Unfähigkeit
+  Wer:
+    Geisteskrank
+    <7 Jahre
+  Bedeutung:
+    Willenserklärung ungültig
+    Gesetztlicher Vertreter handelt
+  Ausnahmen:
+    Botengänge
+      Verlängerter Arm des gesetzlichen Vertreters
+
+Beschränkt
+  Wer:
+    18>x>7
+    Betreute mit einwilligungsvorbehalt
+  Bedeutung:
+    Gültigkeit nur mit Zustimmung:
+      Einwilligung (vorher)
+      Genehmigung (Nachher)
+        Bis zur Genehmigung schwebend unwirksam
+  Ausnahmen:
+    Taschengeldparagraph
+    Geschenke (rechtlicher vorteil)
+    Dienst/Arbeitsverhältnis
+    Betrieb Erwerbsgeschäft (mit Genehmigung des Vormundschaftsgerichts)
+
+Unbeschränkt
+  Wer:
+    natürliche personen x>18
+    juristische personen vertreten durch Vorstand etc.
+  Bedeutung:
+    Rechstgeschäfte selbstständig und wirksam abgeschlossen.
+  Ausnahmen:
+    Dauerhafte Geisteskranke
+Nichtige Rechtsgeschäfte:
+Keine Rechtswirksame Willenserklärung liegt vor
+  Mit geschäftsunfähigen
+  Schein/Scherzgeschäfte
+  Formfehler (mündlich)
+  Gesetzeswidrig
+  Wucher
+  Willenserklärung um Zustand der Störung
+
+Anfechtbarkeit von Rechtsgeschäften:
+Solange gültig wie sie nicht von Vertragspartner angefochten werden
+  Erklärungsirrtum
+    Zahlendrehe
+  Übermittlungsirrtum
+    Übertragungsfehler bei Fernschreiber
+  Drohung/Täschung
+    Fälschung
+
+Verpflichtungs/Erfüllungsgeschäft
+  Verpflichtung des Verkäufers
+    Übergabe:
+      richtiger Ort, Zeit, Art, Weise
+    Eigentumsübertragung
+  Verpflichtung des Käufers
+    Abnahme
+    Bezahlung
+Träger von Rechten und Pflichten
+
+Rechte:
+  Eigentum
+  Schulbildung
+Pflichten
+  Steuern
+  Schulpflicht
+
+Rechtssubjekte: Natürliche Personen (alle Menschen)
+                  Beginn der Rechtsfähigkeit
+                    Geburt
+                  Ende der Rechtsfähigkeit
+                    Tod
+                    
+                Juristische Personen (öffentliches Recht)
+                  Beginn der Rechtsfähigkeit:
+                    Staatliche Verleihung
+                    rechtsverordnung
+                    Kabinettsbeschluss
+                  Ende der Rechtsfähigkeit:
+                    Auflösung
+                  Beispiele:
+                    Stadt, kreis, Land, IHK
+                    Rundfunkanstalten
+                    Museumsstiftungen
+
+                  Juristische Personen (privaten Rechts)
+                    Beginn der Rechtsfähigkeit
+                      Eintragung in öffentliches Register
+                        Verein, Handel
+                    Ende der Rechtsfähigkeit
+                      Löschung der eintragung
+                    Beispiele
+                      e.V.
+                      AG, GmbH, Genossenschaft
+Rechtsgeschäft = Willenserklärung einer oder mehrerer Personen
+
+Willenserklärung = rechtliche wirksame Äußerung einer Person, führt bewusst
+                  eine Rechtsfolge herbei
+    Vorraussetzungen:
+      gewollt
+      bewusst
+      rechtsverbindliche Wirkung beabsichtigen
+
+Einseitiges Rechtsgeschäft
+  Willenserklärung einer Person erforderlich
+  Empfangsbedürftig
+    Bsp. Mahnung, Kündigung, Angebot
+  Nicht-Empfangsbedürftig
+    Bsp. Testament
+Zweiseitiges Rechtsgeschäft
+  zwei übereinstimmende Willenseklärungen erforderlich
+  Einseitig verpflichtend
+    Schenkung, Bürgschaft
+  Zweiseitig verpflichtend
+    Kauf, Miete, Pacht
+
+Vertragsarten im Bürgerlichen Gesetz Buch
+Veräußerungsverträge
+  Kaufvertrag
+    Entgeltliche Veräußerung
+  Schenkungsvertrag
+    Unentgeltliche Veräußerung
+Gebrauchsüberlassungsverträge
+  Leihvertrag
+    Unentgeltliche Gebrauchsüberlassung
+  Mietvertrag
+    entgeltliche Gebrauchsüberlassung
+  Pachtvertrag
+    entgeltliche Gebrauchsüberlassung + Überlassung der Erträge
+  Darlehensvertrag
+    Entgeltliche Geldüberlassung (vertretbare Sachen)
+Tatigkeitsverträge
+  Dienstvertrag
+    Entgeltliche Leistung von Diensten
+  Werkvertrag
+    Aus Kundenmaterial erstelltes Werkstück
+  Werklieferungsvertrag
+    Aus Unternehmermaterial erstelltes Werkstück
+  Reisevetrag
+    Entgeltliche Verpflichtung zur Reiseleistung
+  Dienstleistungsvetrag
+    Entgeltliche Verpflichtung von Rechten/Pflichten
+Sachen (körperlich) (auch tiere)
+  Unbeweglich (immobilien) Bsp. unbebaute Grundstücke
+  bewegliche (mobilien) Bsp. automobil
+    Vertretbare (massenware) Bsp. neuwagen
+    Nicht vertretbare (einzelstücke) Bsp. Rennwagen
+Rechte (nicht körperlich)
+  Schuldrechte (Verbindlichkeiten)
+  Sachenrechte (Patente)
+Rechtsordnung BRD
+Privatrecht (Zivil)
+  einzelne Personen (natürlich, juristisch)
+  vereinbarungen != gesetz (nachgiebiges Recht)
+  gleichordnung
+  Bundesgesetzbuch
+  Handelgesetzbuch
+  "gesellschaftsrecht"
+  Spezielles Recht bricht generelles Recht
+
+Öffentliches Recht
+  Staat <-> Bürger
+  Institutionen untereinander
+  zwingendes Recht
+  Unterordnung
+  Grundgesetz
+  Strafgesetzbuch
+  Einkommenssteuergesetz
+  
+Gerichtsstand
+  Der Ort an dem nichterfüllende Vertragspartner verklagt werden kann
+
+Örtliche Zuständigkeit
+  gesetzlicher
+    allgemeiner: Nichtkaufleute -> Ort des Beklagten
+    besonderers: zwischen Kaufleuten
+      Erfüllungsort -> gerichtsstand
+      Warenschulden -> Ort des Verkäufers
+      Geldschulden -> Ort des Käufers
+  Vertraglicher
+    Kaufleute / Juristische personen können Gerichtsstand frei vereinbaren
+
+Sachliche Zuständigkeit
+  x < 5.000€ -> Amtsgericht
+  x > 5.000€ -> zuständiges Landgericht
+Erkennbarkeit
+  Offene Mängel: sofort
+  Versteckte M: nicht sofort
+  Arglistig verschwiegene Mängel: Verkäufer bekannt aber verschwiegen
+
+Sachmangel:
+  Qualitätsmängel
+    fehlerhafte Ware, lässt Gebrauch nicht zu,
+  M in der Werbeaussage
+    öffentliche beworbene Qualitäten nicht vorhanden
+  M in der Montage/-anleitung
+    fehlerhafte Aufbauanleitung
+  Falschlieferung
+    eine andere Ware als die bestellte
+  Quantitätsmangel
+    zu wenig vom bestellten Gut
+Rechtsmangel
+  M im Recht
+    wenn Dritte keine Ansprüche auf die Ware stellen können ist KEIN mangel im
+    recht vorhanden, sonst schon
+
+Käuferrecht bei Schlechtleistung
+  Vorrangig
+    Nacherfüllung
+      Nachbesserung
+        Verkäufer Art der Nachbesserung verweigern
+      Ersatzlieferung
+        zwei erfolglose nachbesserungen -> Ersatz
+  Nachrangig
+    Minderung (des preises)
+    Rücktritt
+    Schadenersatz
+    Ersatz vergeblicher Aufwendungen
+
+  angemessene Nachfrist ist entbehrlich wenn
+    Verkäufer verweigert Leistung
+    zwei erfolglose Nacherfüllungsversuche
+    nacherfüllung unzumutbar
+    Fixgeschäft (zweckkauf)
+    besondere Umstände
+
+Verjährung der Mängelansprüche
+  2 Jahre, außer bei arglist oder nicht körperlichen Werken
+  5 Jahre für Bauwerke
+  30 Jahre Herausgabeansprüche aus Eigentum
+
+besonderheiten Verbrauchsgüterkauf
+  Beweislastumkehr
+    bis 6 Monate nach Kauf: Verkäufer
+    ab 6. Monat nach Kauf: Käufer
+  Ausnahme gebrauchte Sachen: Verkürzung der Mängelfrist auf 1 Jahr
+Kaufverträge: wesentliche Inhalte
+  Art, Güte, Beschaffenheit der Ware
+  Menge der Ware
+  Preis der Ware
+    Verpackungskosten
+      Versandverpackung: Käufer
+      Verkaufsverpackung: Verkäufer
+    Preisabzüge
+      Rabatt
+      Bonus (nachträglich)
+      Skonto (Zahlung vor Zahlungsziel)
+  Lieferungsbedinungen
+    Kosten
+      Ab Werk, Lager, Rampe: Käufer Kosten
+      Ab Bahnhof, hier, unfrei: Verkäufer bis Versandbahnhof, Käufer Rest
+      Ab Waggon: Verkäufer Rollgeld 1
+      Bahnhof dort: Käufer Rollgeld 2
+      Freihaus: Verkäufer alle Kosten
+    Lieferzeit
+      Käufer: sofortige Lieferung
+      Vertragliche Vereinbarungen möglich
+  Zahlungsbedingungen
+    Verkäufer kann sofortige Zahlung verlangen
+
+Erfüllungsort
+  Leistungsort
+    gesetzliche Erfüllungsort
+      für Ware: Ort des Verkäufers
+      für Geld: Ort des Käufers
+    vertragliche Erfüllungsort
+      vereinbarung zwischen Vertragspartnern über anderen Erfüllungsort
+    natürliche Erfüllungsort
+      Leistung ist nach Umständen der Art dort zu erbringen
+  Gefahrübergang
+    durch Erfüllungsort bestimmt
+    bei zufälliger Verschlechterung der Ware geht Gefahr auf Käufer über
+      bei Übergabe an Käufer
+      bei Übergabe an Spediteur
+  Gerichtsstand
+    allgemeiner Gerichtsstand, Bezirk des Schuldner Wohnsitz
+    besonderer Gerichtsstand, Bezirk des Leistungsorts der Schuldners
+      -> gesetzlicher Erfüllungsort zieht Gerichtsstand nach sich
+
+Eigentumsvorbehalt
+  Einfacher Vorbehalt
+    Käufer erst bei vollständiger Zahlung Eigentümer der Ware
+  Erweiterter Vorbehalt
+    Verlängerter Vorbehalt mit Veräußerungsklausel
+      einfachen + Zession (abtretung einer forderung)
+    mit Verarbeitungsklausel
+      im Falle der verarbeitung erhält gläubiger anspruch an ware
+    Kontokorrentvorbehalt
+      Vorbehaltsrechte erstrecken sich auf andere vom Verkäufer an Käufer
+      gelieferte Gegenstände
+Verpflichtungs- und Erfüllungsgeschäft
+  V:
+    2 Willenserklärungen: Antrag und Annahme
+    -> Schuldverhältnis, verpflichtet Käufer und Verkäufer
+    Pflichten des Käufers:
+      Annahme des Gegenstandes
+      Zahlung des Preises
+    Pflichten des Verkäufers
+      Übergabe des Gegenstandes
+      Eigentumsübertragung
+      Annahme der Zahlung
+  E:
+    tatsächliche Erfüllung der oben eingegangenen Pflichten
+
+Bedingungen zur Erlöschung der Bindung an Antrag
+  nach Zeitpunkt an dem eine Annahme erwartet werden durfte
+  nach Beendigung der Unterredung
+  Fristsetzung mit Überschreitung
+  Widerruf des Antrags
+  Ablehnung des Antrags
+
+Besonderheiten bei Zusendung von unbestellter Ware
+  an Kaufmann
+    bei bestehender Geschäftsverbindung
+      -> Schweigen = Annahme
+      Ablehnung muss sofort kenntlich gemacht werden, Ware aufbewahren und
+      zurücksenden
+    ohne bestehende Verbindung
+      Schweigen = Ablehnung
+      Aufbewahren aber nicht zurücksenden
+  an Privatperson
+    Schweigen != Annahme ODER Ablehnung
+    keine Willenserklärung
+    Aufbewahren aber nicht zurückschicken
+Fälligkeit und Verzug
+  Fälligkeit kalendarisch bestimmt -> Verzug ohne Mahnung
+  F nicht kalendarisch bestimmt -> mit Mahnung
+  Ansonten 30 Tage nach Fälligkeit und Zugang einer Rechnung oder gleichwertigen
+  Zahlungsaufforderung
+Rechte
+  ohne Nachfristsetzung
+    erfüllung des Vertrags
+    obiges + Berechung des verzugsschadens
+  mit angemessener Nachfrist
+    Rücktritt
+    Schadenersatz wegen nichterfüllung
+
+Kaufmännisches Mahnverfahren
+  gesetzlich nicht vorgeschrieben, im Ermessen des lieferers
+  Art und weise bestimmt durch Zielsetzung: pünktlicher Zahlungseingang ohne
+  dem Kunden zu schaden
+
+gerichtliches Mahn und Zwangsvollstreckungsverfahren
+  Reaktion auf Mahnbescheid
+    Zahlung -> Ende
+    Schweigen
+      6 Monate nach Widerspruchsfrist mögl. -> Vollstreckungsbescheid
+    Widerspruch
+      14 Tage Frist
+      mögl. -> Streifverfahren
+        Gericht des Schuldners, mündlicher Termin. Lösung durch Vergleich, Urteil,
+        Rücknahme etc
+
+    Vollstreckungsbescheid
+      Einspruch
+        14 Tage -> Streitverfahren
+      Zahlung -> Ende
+      Schweigen -> Pfändung
+        Erfolgreiche Pfändung -> Ende
+        Fruchtlos / Unbefriedigende Pfändung -> Antrag eidesstattliche Versicherung
+          EV -> erneute Pfändung
+          Weigerung -> Haftantrag

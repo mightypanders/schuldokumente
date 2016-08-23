@@ -1,0 +1,15 @@
+Übertragungsfehler
+A                       B
+1100 0011 -------> 1100 0001
+
+Checksumme Anzahl der 1
+A                       B
+1100 0011 0100 -------> 1100 0001 0100 (erwartet 0011)
+
+Paritätsbit
+  gerade ode ungerade Anzahl von 1
+  im Vorfeld vereinbart
+A                       B
+1100 0011 0-------> 1100 0001 0 (1 erwartet)
+
+wird Klausurthema

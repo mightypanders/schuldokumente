@@ -1,0 +1,9 @@
+Klausurthemen:
+Grundbegriffe Programmierung Softwareentwicklung
+  freie software etc (siehe Skript erste Seiten)
+Programmiersprachentypen Interpreter/Compiler
+Algorithmen erstellung 
+  PAP
+  Pseudocode
+  Struktogramm
+Datenflussplan (wir bekommen die Symbole aus dem Skript)
