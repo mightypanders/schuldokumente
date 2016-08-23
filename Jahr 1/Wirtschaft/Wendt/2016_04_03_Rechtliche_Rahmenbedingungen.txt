@@ -1,0 +1,54 @@
+Kaufverträge: wesentliche Inhalte
+  Art, Güte, Beschaffenheit der Ware
+  Menge der Ware
+  Preis der Ware
+    Verpackungskosten
+      Versandverpackung: Käufer
+      Verkaufsverpackung: Verkäufer
+    Preisabzüge
+      Rabatt
+      Bonus (nachträglich)
+      Skonto (Zahlung vor Zahlungsziel)
+  Lieferungsbedinungen
+    Kosten
+      Ab Werk, Lager, Rampe: Käufer Kosten
+      Ab Bahnhof, hier, unfrei: Verkäufer bis Versandbahnhof, Käufer Rest
+      Ab Waggon: Verkäufer Rollgeld 1
+      Bahnhof dort: Käufer Rollgeld 2
+      Freihaus: Verkäufer alle Kosten
+    Lieferzeit
+      Käufer: sofortige Lieferung
+      Vertragliche Vereinbarungen möglich
+  Zahlungsbedingungen
+    Verkäufer kann sofortige Zahlung verlangen
+
+Erfüllungsort
+  Leistungsort
+    gesetzliche Erfüllungsort
+      für Ware: Ort des Verkäufers
+      für Geld: Ort des Käufers
+    vertragliche Erfüllungsort
+      vereinbarung zwischen Vertragspartnern über anderen Erfüllungsort
+    natürliche Erfüllungsort
+      Leistung ist nach Umständen der Art dort zu erbringen
+  Gefahrübergang
+    durch Erfüllungsort bestimmt
+    bei zufälliger Verschlechterung der Ware geht Gefahr auf Käufer über
+      bei Übergabe an Käufer
+      bei Übergabe an Spediteur
+  Gerichtsstand
+    allgemeiner Gerichtsstand, Bezirk des Schuldner Wohnsitz
+    besonderer Gerichtsstand, Bezirk des Leistungsorts der Schuldners
+      -> gesetzlicher Erfüllungsort zieht Gerichtsstand nach sich
+
+Eigentumsvorbehalt
+  Einfacher Vorbehalt
+    Käufer erst bei vollständiger Zahlung Eigentümer der Ware
+  Erweiterter Vorbehalt
+    Verlängerter Vorbehalt mit Veräußerungsklausel
+      einfachen + Zession (abtretung einer forderung)
+    mit Verarbeitungsklausel
+      im Falle der verarbeitung erhält gläubiger anspruch an ware
+    Kontokorrentvorbehalt
+      Vorbehaltsrechte erstrecken sich auf andere vom Verkäufer an Käufer
+      gelieferte Gegenstände

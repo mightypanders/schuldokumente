@@ -1,0 +1,51 @@
+Erkennbarkeit
+  Offene Mängel: sofort
+  Versteckte M: nicht sofort
+  Arglistig verschwiegene Mängel: Verkäufer bekannt aber verschwiegen
+
+Sachmangel:
+  Qualitätsmängel
+    fehlerhafte Ware, lässt Gebrauch nicht zu,
+  M in der Werbeaussage
+    öffentliche beworbene Qualitäten nicht vorhanden
+  M in der Montage/-anleitung
+    fehlerhafte Aufbauanleitung
+  Falschlieferung
+    eine andere Ware als die bestellte
+  Quantitätsmangel
+    zu wenig vom bestellten Gut
+Rechtsmangel
+  M im Recht
+    wenn Dritte keine Ansprüche auf die Ware stellen können ist KEIN mangel im
+    recht vorhanden, sonst schon
+
+Käuferrecht bei Schlechtleistung
+  Vorrangig
+    Nacherfüllung
+      Nachbesserung
+        Verkäufer Art der Nachbesserung verweigern
+      Ersatzlieferung
+        zwei erfolglose nachbesserungen -> Ersatz
+  Nachrangig
+    Minderung (des preises)
+    Rücktritt
+    Schadenersatz
+    Ersatz vergeblicher Aufwendungen
+
+  angemessene Nachfrist ist entbehrlich wenn
+    Verkäufer verweigert Leistung
+    zwei erfolglose Nacherfüllungsversuche
+    nacherfüllung unzumutbar
+    Fixgeschäft (zweckkauf)
+    besondere Umstände
+
+Verjährung der Mängelansprüche
+  2 Jahre, außer bei arglist oder nicht körperlichen Werken
+  5 Jahre für Bauwerke
+  30 Jahre Herausgabeansprüche aus Eigentum
+
+besonderheiten Verbrauchsgüterkauf
+  Beweislastumkehr
+    bis 6 Monate nach Kauf: Verkäufer
+    ab 6. Monat nach Kauf: Käufer
+  Ausnahme gebrauchte Sachen: Verkürzung der Mängelfrist auf 1 Jahr

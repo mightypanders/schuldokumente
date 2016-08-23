@@ -1,0 +1,72 @@
+Zeitanteilige Abschreibung
+  10000 / 5 = 2000
+  2000 * 10/12 =
+
+Bei Totalschaden: außerordentliche Abschreibung, sofort alles abgeschrieben
+  da kein Wert mehr vorhanden ist.
+
+
+Was ist ein Handelsgewerbe:
+Kennzeichen:
+  Selbstständigkeit
+  Eintrag ins Handelsregister
+  Dauerhaftigkeit
+  Planmässigkeit
+  Gewinnerzielungsabsicht
+  nicht freie Berufe
+    Journalisten
+    Künstler
+    Rechtsanwälte
+    Heilberufe
+    Architekten
+    Steuerberater
+    Wirtschaftsprüfer
+
+Vorraussetzung für einen Kaufmann ist Betreiben eines Gewerbes.
+
+Kaufmann nach HGB sind:
+  Ist-Kaufmann
+    (§1 Abs 2 HGB)
+    jeder Gewerbetreibende dessen Unternehmen eine
+    kaufmännische Organisation erfordert/benötigt
+      Eintragung Kaufmann ist deklaratorisch (rechtsbezeugend)
+  Kann-Kaufmann
+    (§2u.3 HGB)
+    Gewerbetreibende dessen Unternehmen keine Kaufmännische
+    Organisation erfordert
+    Land/Forstwirte dessen Unternehmen eine kaufmännische
+    Organisation erfordert
+      Eintragung Kaufmann ist konstitutiv (rechtserzeugend)
+  Form-Kaufmann (Juristische Person)
+    (§6 Abs 2 HGB)
+    #Kapitalgesellschaften sind immer Kaufleute nach HGB
+    Alle Kapitalgesellschaften
+    (GmbH, AG, uGHaftungsbeschränkt)
+    Kaufmann kraft rechtform
+      Eintragung Kaufmann ist konstitutiv
+
+Kaufmann Pflichten
+  Prüf und Rügefristen
+    sofort auf Qualität testen nach Erhalt
+  Verzugszinsen
+  Bürgschaften mündlich
+  Aufzeichnungspflicht (Buchhaltung)
+  kann Prokura erteilen
+    umfangreiche Vollmacht, fast alle Rechte die der Geschäftsführer hat
+
+Arbeitsblatt Kaufmann nach HGB
+
+Handelsregister
+  Eintragen von Unternehmensnamen, Gesellschafter
+  Alle Kaufleute nach HGB eines Bezirks
+  elektronisch seit 2006
+  A: Einzelunternhemungen, Personengesellschaften
+    KG OHG (offene Handelsgesellschaft)
+  B: Kapitalgesellschaften
+    AG GmbH UGH
+  Öffentlichkeit http://www.handelsregister.de
+    http://www.unternehmensregister.de
+    Registergericht
+    (grundbuch nur mit berechtigtem Interesse bspw.)
+  genieße öffentlichen Glauben
+    was da drin steht, stimmt. Berufung auf Register möglich
