@@ -1,0 +1,32 @@
+Jörg Fehlen IT 2&3 (FEH) j.fehlen@hnbk.de
+
+-> 3 Teile
+  IT Theorie, 2 Klausuren(Block 2.2 Mittwoch 26.10. 5/6 Stunde) (5/6h)
+  IT Praxis Netze Bauen, Konfigurieren, testen (2h)
+    cisco Packettracer
+    praktische Prüfung
+  IT Linux Wittek (2h) ITU = IT Unix
+Notenanteil entsprechend stundenanteil
+
+Essener IT Modell
+
+Im Falle einer schlechten Note sind "Ausarbeitungen" möglich.
+
+heterogene Netze
+1)
+  Audio Input/Output auf beiden Seiten der Verbindung
+    Umwandlung -> Schallwellen -> Analoge Signale
+                                -> Digitale Signale
+  Intakte/Stabile Verbindung zwischen A&B
+    Infrastruktur
+  Strom..
+  kompatible De/Enkodierung
+    standardisierte Protokolle, die beide Seiten kennen
+
+  (VoIP mit Bandbreite -> ein Protokoll
+    -> IP-Adresse -> Protokollinformationen
+    -> Endgerät)
+2)
+  Kompatible Sprache
+  Bedienungsfähigkeit
+  Bereitschaft das Telefonat zur selben Zeit durchzuführen
