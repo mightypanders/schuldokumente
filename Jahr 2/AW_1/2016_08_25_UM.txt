@@ -1,0 +1,20 @@
+3 Klausuren
+Klausurtermin
+	3.2
+	4.1
+	5.2
+sontige Leistungen:	
+	Ausarbeitungen (Miniprojekte)
+	mündliche Mitarbeit
+	Feller: Test (datenbanken)
+a.lehmann@hnbk.de
+
+fehlerfreiheit
+kommentare
+getestet
+strukturiert
+effizienz
+
+klasse.nachname.markus@students-hnbk.de
+fa-15a.dieckmann.markus@students-hnbk.de
+HNBK2016schueler
