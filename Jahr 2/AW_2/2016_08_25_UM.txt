@@ -1,0 +1,47 @@
+Viel IT ist weiterhin bestandteil der AW
+AW1 Lehmann 6h
+AW2 Feller 6h
+	Datenbanken
+	SQL
+	vorraussichtlich 1 Klausur, aber eher 2
+	1 Test DB
+	5 Minuten am Anfang -> simuliertes Abschlußgespräch (Prüfung)
+	präsentationen
+	
+Datenbanken (standardthema in der Prüfung)
+	Motivation
+	Grundbegriffe
+	Modelle
+		ERM
+		Relationale
+	Normalisierung
+	
+	
+1.	1.	1.	Oracle	Relational DBMS	1427,72	-13,81	-25,30
+2.	2.	2.	MySQL 	Relational DBMS	1357,03	-6,25	+65,00
+3.	3.	3.	Microsoft SQL Server	Relational DBMS	1205,04	+12,16	+96,39
+4.	4.	4.	MongoDB 	Document Store	318,49	+3,49	+23,84
+5.	5.	5.	PostgreSQL	Relational DBMS	315,25	+4,10	+33,39
+6.	6.	6.	DB2	Relational DBMS	185,89	+0,81	-15,35
+7.	7.	8.	Cassandra 	Wide Column Store	130,24	-0,47	+16,24
+8.	8.	7.	Microsoft Access	Relational DBMS	124,05	-0,85	-20,15
+9.	9.	9.	SQLite	Relational DBMS	109,86	+1,32	+4,04
+10.	10.	10.	Redis 
+	
+
+ANSI SPARC-architektur
+
+3 Schichten Architektur
+	externe Ebene:
+		stellt nutzern und anwendungen Nutzersichten bereit (Bildschirmmasken)
+	konzeptuelle Ebene:
+		welche Daten sind in der Datenbank
+		welche Beziehung haben diese Daten untereinander
+	interne Ebene:
+		physische Sicht der Daten auf der festplatte
+		wie und wo die Daten in der Datenbank gespeichert werden
+	
+	physische und logische Datenunabhängigkeit
+	{1}:
+	{2}:
+	
