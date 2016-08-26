@@ -45,6 +45,7 @@ Virtualisierung
   Hardware x86 PC
 
   Emulation
+  
     übersetzt Befehle von einem Maschinencode in den anderen
     simuliert die Hardware eines anderen Systems in Software
 
@@ -81,4 +82,3 @@ Begriffe
 
   Bare Metal
     Hypervisor wird direkt auf der Hardware installiert und ist Host für Guests
-    
