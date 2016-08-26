@@ -1,0 +1,84 @@
+IT1 = IT Linux
+arbeit rein auf kommandozeile
+
+schriftliche leistung
+  Klausur (1x)
+    30 minuten
+    fiel bisher nicht gut aus
+sonstige leistung
+  mitarbeit
+    mündlich
+    motiviert
+    fähig
+    mühe
+  praktische Prüfung
+    30 minuten
+    in einer vm
+
+themen
+  Virtualisierung
+  Grundwerkzeuge
+    "man"
+    "vi"
+  Linux als netzwerkbetriebssystem
+  Aufbau einer Linuxinstallation
+  Commandline Interface / shell
+  runlevel
+  dateisystem
+  berechtigungen und verwaltung
+  Prozessmanagement
+
+
+Virtualisierung
+  Hardware zur Verfügung
+    z.B. x86-PC
+
+  Anwendung MS OFfice
+  Windows (Guest)
+  Virtualisierungsschicht
+  Debian Linux (Host)
+  x86 PC
+
+  Anwendung Maniac Mansion C64
+  C64 Emulator
+  Debian Linux
+  Hardware x86 PC
+
+  Emulation
+    übersetzt Befehle von einem Maschinencode in den anderen
+    simuliert die Hardware eines anderen Systems in Software
+
+    Vorteil: beliebige Plattformen können emuliert werden
+
+  Virtualisierung
+    reicht befehle an hardware weiter
+    in form von Maschinencode
+
+    Vorteil: deutlich schneller als Emulation
+
+    wird von betrieben genutzt um hardware vollständig nutzen zu können
+
+Begriffe
+  Vollvirtualisierung
+    kein gast OS
+    der "hypervisor" virtualisierungssoftware wird direkt auf der hardware
+    installiert (http://winfwiki.wi-fom.de/index.php/Virtualisierung_der_IT#Vollvirtualisierung)
+    (auch bare metal virtualisierung genannt)
+    fast alle befehle direkt auf der Hardware
+
+    es wird eine virtualisierte umgebung zur verfügung gestellt, die sich für
+    das Gast-OS nicht von der realen Umgebung unterscheidet
+
+  Paravirtualisierung
+    virtualisierungssoftware stellt eine ähnliche aber nicht identische
+    hardwareschnittstelle zur verfügung
+      soll ausführungszeit von operationen die schwer zu virtualisiren minimieren
+
+    stellt Schnittstelle zur Verfügung die ähnlich, aber nicht identisch zur
+    realen HW ist.
+    -> +performance
+    -> -Anpassung am Gast erforderlich
+
+  Bare Metal
+    Hypervisor wird direkt auf der Hardware installiert und ist Host für Guests
+    
