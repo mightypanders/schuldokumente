@@ -1,0 +1,43 @@
+Lehrer: Weber
+1 Klausur 50%
+Gehalt
+  Entgeldabrechung
+Sozialversicherung
+  Krankenversicherung
+  Rentenversicherung
+  Arbeitslosenversicherung
+  Unfallversicherung (zahlt der Arbeitgeber)
+  Pflegeversicherung
+
+
+Freiwillige
+  Berufsunfähigkeitsversicherung
+
+Beitragssätze (lohn-info.de/sozialversicherungsbeitraege2016.html)
+krankenversicherung
+  Beitragssatz: 14,6%
+    Arbeitgeber: 7,3%
+    Arbeitnehmner: 7,3%
+rentenversicherung
+  allgemein beitragssatz: 18,7%
+    Arbeitgeber: 9,35%
+    Arbeitnehmer: 9,35%
+  knappschaftlich: 24,8%
+    Arbeitgeber: 15,45%
+    Arbeitnehmer: 9,35%
+Arbeitslosenversicherung
+  Beitragssatz: 3,0%
+    Arbeitgeber: 1,5%
+    Arbeitnehmer: 1,5%
+Pflegeversicherung
+  Beitragssatz(mit Kindern): 2,35%
+    Arbeitgeber 1,175%
+    Arbeitnehmer 1,175%
+    (Außer sachsen:
+      arbeitgeber: 1,675%
+      arbeitnehmer: 0,675%
+    )
+  Beitragssatz(ohne Kinder): 2,6%
+Unfallversicherung:
+  Beitragssatz abhängig von betrieblicher Gefahrenklasse
+    getragen von arbeitgeber
