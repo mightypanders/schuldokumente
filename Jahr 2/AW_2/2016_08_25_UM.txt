@@ -5,18 +5,18 @@ AW2 Feller 6h
 	SQL
 	vorraussichtlich 1 Klausur, aber eher 2
 	1 Test DB
-	5 Minuten am Anfang -> simuliertes Abschlußgespräch (Prüfung)
-	präsentationen
-	
-Datenbanken (standardthema in der Prüfung)
+	5 Minuten am Anfang -> simuliertes Abschluï¿½gesprï¿½ch (Prï¿½fung)
+	prï¿½sentationen
+
+Datenbanken (standardthema in der Prï¿½fung)
 	Motivation
 	Grundbegriffe
 	Modelle
 		ERM
 		Relationale
 	Normalisierung
-	
-	
+
+
 1.	1.	1.	Oracle	Relational DBMS	1427,72	-13,81	-25,30
 2.	2.	2.	MySQL 	Relational DBMS	1357,03	-6,25	+65,00
 3.	3.	3.	Microsoft SQL Server	Relational DBMS	1205,04	+12,16	+96,39
@@ -26,10 +26,12 @@ Datenbanken (standardthema in der Prüfung)
 7.	7.	8.	Cassandra 	Wide Column Store	130,24	-0,47	+16,24
 8.	8.	7.	Microsoft Access	Relational DBMS	124,05	-0,85	-20,15
 9.	9.	9.	SQLite	Relational DBMS	109,86	+1,32	+4,04
-10.	10.	10.	Redis 
-	
+10.	10.	10.	Redis
+
 
 ANSI SPARC-architektur
+American National Standards Institue Standards Planning and Requirements Commitee
+entwickelt 1975
 
 3 Schichten Architektur
 	externe Ebene:
@@ -40,8 +42,16 @@ ANSI SPARC-architektur
 	interne Ebene:
 		physische Sicht der Daten auf der festplatte
 		wie und wo die Daten in der Datenbank gespeichert werden
-	
-	physische und logische Datenunabhängigkeit
+
+	physische und logische Datenunabhï¿½ngigkeit
 	{1}:
+		anwenderprogramme mÃ¼sssen sich nicht um die Datenspeicherung kÃ¼mmern
+		nur begriffe aus der konzeptionellen sicht werden benutzt
+		tatsÃ¤chlicher Lagerort der Tabelle ist irrelevant
 	{2}:
+		ein datenbestand und seine zusammenhÃ¤nge kÃ¶nnen aus unterschiedlichen
+			perspektiven interpretiert werden, auch aus unterschiedlichen anwendungen
+		Ã„nderungen an DB struktur keine auswirkungen auf externe Ebene
+			bspw. Erweiterungen um eine Tabelle ohne Auswirkungen auf Anwendungen
+
 	

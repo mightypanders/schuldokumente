@@ -1,0 +1,36 @@
+(erweiterung 2016_08_25_UM)
+bereits eindeutige attribute können nicht um andere attribute erweitert werden
+um einen primärschlüssel zu bilden
+
+Grundbegriffe Datenbanken
+Übung: bennene die Bestandteil der Tabelle und kennzeichne alle möglichen PKs
+(siehe Material Tabellenbeispiel)
+
+Mögliche PKs
+1) ID (künstlicher PK)
+2) RNr + Pos (zusammengesetzter PK)
+3) RNr + ArtNr (besser nicht)
+
+aber nicht
+RNr + Pos + ArtNr
+
+MySQL Workbench + XAMPP
+  Dump der Schemas ?
+SQL Create Syntax vielleicht wichtig
+MySQL und XAMMP eingerichtet und Tabelle mit Werten gefüllt
+
+2. Hälfte
+Datenbankerstellung
+  start:
+    Datenanalyse (welche Daten will ich speichern?) aus dem Pflichtenheft
+  Entity Relationship Model -> Relationales DB Modell
+
+Modellierung:
+  ERM (Entity Relationship Model) -> Relationales Modell -> SQL
+
+  (siehe Material Beispiell Modelle)
+
+pflichtenheft
+  Einigung des Dienstleisters mit dem Kunden, was wirklich umgesetzt wird
+lastenheft
+  Wunschliste des Kunden

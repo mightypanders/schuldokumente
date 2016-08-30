@@ -1,0 +1,12 @@
+Layer 4 Protokolle:
+  TCP
+    Verbindungsorientiert
+    Seq. Nr. für Zuordnung ->
+  UDP
+    Verbindungslos
+    -> Weniger Metadaten
+    -> keine Kontrolle der Zulieferung
+
+Wiederholung Manchester Codierung
+  Gleichspannungsfreiheit
+    Übertragungs Takt
