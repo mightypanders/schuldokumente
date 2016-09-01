@@ -24,7 +24,7 @@ Rechtsquellen die Bezahlung betreffen
         Arbeitsverbot kurz vor und nach der Entbindung
         Mutterschafturlaub ist möglich
     b)
-
+      
     c)
 
     d)
@@ -34,3 +34,22 @@ Arbeitsschutz:
     Schutzkleidung
     Arbeitssicherheit
       Sicherheitsmaßnahmen
+    Sicherer Arbeitsplatz
+      Büroeinrichtung
+        Ergonomie
+  sozialer Arbeitsschutz
+    für alle Arbeitnehmer
+      Arbeitszeitgesetz
+      Allgemeines Gleichbehandlungsgesetz
+      Bundesurlaubsgesetz
+    für einzelne Arbeitnehmergruppen
+      Mutterschutzgesetz
+      Jugendarbeitsschutzgesetz
+      Schwerbehindertenschutzgesetz
+
+Werktage: Mo-Sa -> 6 Tage
+Arbeitstage: Mo-Fr -> 5 Tage
+
+12 monate elterngeld
+36 monate elternzeit
+mind. 2 Monate in Elternzeit -> 14 Monate elterngeld
