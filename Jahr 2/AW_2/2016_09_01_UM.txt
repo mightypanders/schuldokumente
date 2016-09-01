@@ -1,0 +1,3 @@
+referentielle Integrität
+  es gibt keine verwaisten Foreign Keys
+  achtung beim Löschen oder Update
