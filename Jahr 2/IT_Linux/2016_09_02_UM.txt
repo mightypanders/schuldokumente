@@ -1,0 +1,14 @@
+sudo init 0
+vboxmanage modifyvdi <VDI Location> -type immutable
+
+angeblich wichtige befehle
+  ls zeigt inhalt des arbeitsverzeichnis an
+  touch <dateiname> aktualisiert timestamp (nebeneffekt datei anlegen)
+  mkdir neues verzeichnis anlegen
+  cd <verzeichnisname> wechselt arbeitsverzeichnis
+    cd .. wechselt in höheres verzeichnis
+    cd <> back to home
+  pwd print working directory
+  less datei anzeigen (seitenweise)
+
+vimtutor bis lektion 6
