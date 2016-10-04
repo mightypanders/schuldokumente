@@ -1,0 +1,4 @@
+überschreibe methoden in vererbter klasse
+	zuerst mit virtual definieren
+	dann mit override überschreiben
+	

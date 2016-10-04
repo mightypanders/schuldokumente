@@ -1,0 +1,16 @@
+didaktischer Beitrag -> FiBu
+Klassensprecherwahl
+
+Objektorientierte Programmierung Wiederholung
+Konstruktor -> instanziert das Objekt
+	initialisiert alle Felder
+	gibt Instanz des Objekts zurück
+	
+	
+class c_Kreis{
+	private double Radius;
+	
+	public c_Kreis(double radius){
+		this.Radius = radius;
+	}
+}
