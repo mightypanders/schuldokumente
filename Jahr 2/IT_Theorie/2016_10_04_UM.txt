@@ -1,0 +1,7 @@
+Thema Layer 1
+Übertragungsmedien
+Kupferkabel z.B. 10BaseT (Übetragungsrate:Basisabnd:TwistedPair)
+Glasfasermedien
+LWL (Lichtwellenleiter)
+Totalreflektion: lichstrahlen verlassen optisch dichtes medium nicht in richtung optisch dünnerer medien
+(workboot IT LWL)

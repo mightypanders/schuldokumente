@@ -1,0 +1,44 @@
+Wiederholung Datenbanken
+  Datenbankmodellierung
+  Entity Relationship Modell
+    Datenbankanforderungen <-> Pflichtenheft
+
+    Kardinalitäten
+    ERM RelModell UML
+    1:1 1:1       1:1 / 0..1:0..1
+    1:n 1:n       1:0..* / 0..1:0..*
+    n:m 1:n       0..*:0..*
+
+  Transformationsregel
+  Primärschlüsselattribute aus "1" Tabelle als Fremdschlüsselattribute in "n"-Tabelle schreiben!
+
+  CREATE TABLE `UmsetzungUebung`.`azubi` (
+    `idazubi` INT NOT NULL,
+    PRIMARY KEY (`idazubi`));
+    ALTER TABLE `UmsetzungUebung`.`azubi`
+    CHANGE COLUMN `idazubi` `AzubiID` INT(11) NOT NULL ;
+
+  Transformationsregel
+  Zwischentabelle erstellen, künstlichen Primärschlüssel definieren
+  Primärschlüssel aus "n" und "m" Tabellen als Fremdschlüssel übernehmen
+  Verbindungen als 1 zu n übernehmen. (keine n zu m Beziehungen)
+
+  Arbeitsauftrag
+    1) n:m -> 2 mal 1:n ergänzen
+    2) DB Modellierungsaufgaben
+
+Klausurrelevant
+  DB Modellierung
+
+  ALTER TABLE `UmsetzungUebung`.`azubi`
+CHANGE COLUMN `azubicol` `Name` VARCHAR(45) NULL DEFAULT NULL ,
+ADD COLUMN `Klasse` VARCHAR(45) NULL AFTER `Name`;
+ALTER TABLE `UmsetzungUebung`.`azubi`
+ADD CONSTRAINT `fkKlasse`
+  FOREIGN KEY ()
+  REFERENCES `UmsetzungUebung`.`Klasse` ()
+  ON DELETE RESTRICT
+  ON UPDATE CASCADE;
+
+
+Recherche UPDATE CASCADE / NO ACTION / RESTRICT / NOT NULL
