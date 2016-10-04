@@ -1,0 +1,24 @@
+UEFI
+  network connection to update firmware
+  partitioncount is higher
+  >2TB boot partitions
+
+
+definition of system utilities:
+  A system utility is a small piece of software that comes shipped with an
+  operating system and is intended to be used for very specific tasks. As such
+  their capabilities are limited in scope, but execute those very well. They
+  help manage and tune aspects of the operating system.
+
+main purpose of system utilities:
+  System utilities help manage and optimise the operating system for example
+  by piecing together disjointed files, removing superfluous files or compress
+  big space demanding objects.
+
+Do you need to install tools to keep the system running? Why (not)?
+  They are not strictly needed for the operation of the system but they optimise
+  the experience the user has. They increase efficiency or give the user more
+  breathing room on his harddrive.
+  Furthermore utility software mostly comes pre-installed with the operating
+  system so the user is under no obligation to install this kind of software.
+  Although if they want to they may install further programms.
