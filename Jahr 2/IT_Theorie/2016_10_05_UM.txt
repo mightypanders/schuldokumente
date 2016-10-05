@@ -1,0 +1,111 @@
+Aufgabe 1
+  hostgeräte endgeräte
+    Server
+    Client
+    Drucker
+    Fax
+  Netzwerkkomponenten
+    Switch
+    Hub
+    Bridge
+    Repeater
+    Modem
+
+Aufgabe 2
+  physikalische Topologie
+    Definiert die tatsächliche Verkabelung der Netzwerkgeräte
+  logische Topologie
+    Definiert die Weise in der Netzwerkgeräte im Netz Nachrichten verschicken
+  Aufgabe der logischen Topologie
+
+Aufgabe 3
+  logische Topologien zu den physikalischen Topologien
+    Bus: Token, da die Leitung geteilt wird und Zugriff erbeten werden muss
+    Ring: Token
+    Stern: Broadcast, individuelle Leitungen werden genutzt
+    erweiterter Stern: Broadcast
+    Hierarchische: Broadcast hierarchische vernetzung von Sterntopologien
+    Vermaschte: Broadcast / Token
+    Baum: identisch zu Hierarchisch
+
+Aufgabe 4:
+  zwei typen logischer Topolgie
+    Token
+    Brodcast
+  Prinzip und Technik der Funktion
+    Brodcast:
+      Jeder Client darf Daten senden wann er will, es gibt keine Listen oder Rangfolgen. Die Daten werden an alle anderen Clients
+      im Netz geleitet.
+    Token:
+      Ein Tokengeber gibt den Netzwerkgeräten eine Art "Gutschein" das es ihm erlaubt Daten in das Netzwerk zu senden.
+      Hat der Client nichts zu senden, gibt er das Token weiter.
+
+  Stochastische und Deterministische Zugriffsweise
+    Deterministische
+      Token, es kann bestimmt werden wer, wann spricht
+    Stochastische
+      Broadcast, der nächste Sender kann nicht bestimmt werden
+
+  Ethernet: Broadcast
+  Token Ring: Token
+  FDDI: Token
+
+Strukturierte Verkabelung
+Aufgabe 1
+  MDF:
+    Main Distribution Facility
+    Hauptverteiler
+    Gebäudeverteiler
+  IDF:
+    Intermediate Distribution Facility
+    Zwischenverteiler
+    Etagenverteiler
+  POP:
+    Point of Presence
+    Anschlussstelle / Knotenpunkt / Anbindung
+    Standortverteiler
+
+Aufgabe 2
+  horizontale Verkabelung
+    wird von den IDFs sternförmig auf einem einzelnen Geschoß aufgespannt.
+  Backbone Verkabelung
+    verläuft vertikal von dem MDF zu den IDFs auf den einzelnen Geschoßen.
+
+Aufgabe 3
+  Backbone Verkabelung laut DIN EN 50173
+    offiziell: Sekundär
+
+Aufgabe 4
+  100 m Regel
+  Territorium US EU
+  Arbeitsplatzkabel 3m 5m
+  Installationsstrecke 90m 90m
+  Patch-/Rangierkabel 6m 5m
+  Gesamt 99m 100m
+
+Aufgabe 5
+  Warum ist über die Verkabelung der Primärverkabelung der höchste Datenverkehr zu erwarten?
+    Die PV bündelt allen Datenverkehr der über SV und TV anfällt und ist somit am meisten belastet.
+    Dementsprechend ist auch die Verkabelung leistungsfähiger und teurer.
+
+Aufgabe 6
+  b
+    Vorteile
+      Ausfallsicherheit (Etage)
+      Einheitlichkeit
+      Einfache Wartbarkeit
+      Flexibel in Bezug auf Performance der Komponenten
+      Sicherheit durch Einteilung in Netzwerkgruppen
+    Nachteile
+      Komplexere Administration / Konfiguration
+      Teurer (mehr geräte werden benötigt)
+      Nur ein Standortverteiler -> Abhängigkeit von einem Service Anbieter
+  d
+    TA Anschlussdose (passiv)
+      verbindet Endgeräte mit dem Netzwerk
+    EV Switch (aktiv)
+      Verteiler auf Basis der MAC Adresse
+    GV Router (aktiv)
+      Verteiler auf Basis der IP Adresse
+    SV Router / Switch (aktiv)
+      
