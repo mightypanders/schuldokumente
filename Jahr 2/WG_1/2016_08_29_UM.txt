@@ -30,6 +30,7 @@ Firmierung
     Firmenausschließlichkeit
     Firmenwahrheit
     Firmenbeständigkeit
+    Firmenöffentlichkeit
   Firmierung
     Fantasiefirma
     Sachfirma
