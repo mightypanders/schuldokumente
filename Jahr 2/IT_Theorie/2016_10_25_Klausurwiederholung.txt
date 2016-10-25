@@ -1,0 +1,235 @@
+  10BaseT (Übertragungsrate:Basisband:Twisted Pair)
+  Totalreflexion: Lichtstrahlen verlassen ein optisch dichtes Medium in Richtung optisch
+    weniger dichter Medien
+
+  Physikalische Topologie
+    definiert Tatsächliche Verkabelung im Netzwerk
+    Bsp.:
+      Bus, Ring, Stern, Hierarchisch, Vermascht, Baum
+  logische topologie
+    definiert wie Geräte im Netzwerk Nachrichten verschicken
+    Bsp.:
+      Token, Broadcast
+
+  Broadcast
+    Clients senden Daten wann sie wollen und an wen sie wollen, keine Rangfolge oder Listen
+  Token
+    Tokengeber gibt dem Client einen Gutschein das Datenversand erlaubt, wird weitergegeben bei keinen Daten
+
+    Bus: Token, da Leitung geteilt und Zugreif erteilt wird.
+    Ring: Token
+    Stern: Broadcast, individuelle Leitungen werden genutzt
+    Hierarchisch: Broadcast; hierarchische Vernetzung von Sterntopologien
+    Vermascht: Broadcast oder Token
+    Baum: identisch zu hierarchisch
+
+  Stochastische und deterministische Zugriffsweise
+    Det:  Token, es kann bestimmt werden wer spricht
+    Stoch: Broadcast, der nächste Sender kann nicht vorhgergesehen werden
+
+  Strukturierte Verkabelung
+    MDF Main Distribution Facility Gebäudeverteiler
+    IDF Intermediate Distribution Facitily Etagenverteiler
+    POP Point of Presence Standortverteiler
+
+  horizontale Verkabelung
+    vom IDF sternförmig auf einem Geschoß aufgespannt
+  Backbone Verkabelung laut DIN EN 50173 Sekundär
+    verläuft vertikal zwischen MDF und IDF
+
+    Vorteile Strukturierte Verkabelung
+      weniger kabellänge
+      flexibilität im ausbau
+      übersichtlichkeit durch hierarchisches netz
+      einfache switches
+    Nachteile Struktuierte Verkabelung
+      Große Anzahl an Switches
+      Kaskadierung über Ports
+      Notwendige Verteilerdosen
+
+  Verkabelungsbereiche
+    primär
+      gebäudeübergreifend bis 1.5 km
+    sekundär
+      etagenübergreifend bis 500 m
+    tertiär
+      auf einer Ebene bis 100 m (möglichst)
+
+  collapsed backbone
+    alle netzwerkgeräte werden direkt an einen leistungsfähigen backbone angeschlossen
+    vorteile
+      nur ein switch nötig
+      zentrale wartung
+      ein verteiler raum
+    nachteile
+      hoher kabelverbrauch
+      bei hohen kabellängen werden LWL benötigt
+      backbone weg -> ganzes netz weg
+
+  distributed backbone
+    zwischenstufe zwischen collapsed backbone und strukturierter verkabelung
+
+
+  Übetragungsmedien
+    Kupfermedien
+      Unshielded Twisted Pair
+        häufigste Art der Verkabelung im LAN
+        vier Paar farbkodierter Adern, verdrillt
+        Verdrillung schützt vor störungen durch anderen adern
+      Shielded Twisted Pair
+        besserer Schutz gegen Störungen
+        teuerer und schwieriger zu installieren
+        meist das Bündel der Adernpaare mit Folie abgeschirmt
+        wieder relevant für 10BaseT
+      Aufbau von TP Kabeln
+        übersprechen wird verhinder durch
+          Auslöschen
+            verdrillte Paare im selben stromkreis weisen entgegengesetzte Magnetfelder auf
+            sie heben sich und störende EM Felder auf
+          Variieren der Verdrillungsanzahl pro Adernpaar
+            verschiedene Verdrillungen pro Meter müssen für Standards eingehalten werden
+
+      Koaxial
+        keine besondere rolle in netzwerktechnik mehr, hauptsächlich im KabelTV bereich
+  Ethernet Straight Through
+    Endgerät und Switch
+  Ethernet Cross Over
+    2 Endgeräte
+  Rollover Kabel
+    Terminal -> Router
+
+  Lichtwellenleiter
+    Glas Quarz Kunststoff
+    Photonen
+    Bandbreite bis zu 60 THz
+    Glasfaser ist eine Unterart aber nicht synonym
+
+  Prinzip der Lichtwellenübertragung
+
+    Sender->(A>D Wandler)->Treiberstufe->LED->LWL->Fotozelle->(D>A Wandler)->Treiber->Empfänger
+
+    LWL Aufbau
+      innen nach außen
+        Buffering->Beschichtung->Mantelglas->Kernglas
+      Der kern hat einen höheren Brechungsindex als das Mantelglas
+        -> Totalreflexion, sodass das Licht um nahezu jede Ecke geleitet werden kann.
+    Vorteile LWL
+      keine anfälligkeit für elektromagnetische störungen
+      keine absonderungen von störstrahlen
+      keine entfernungsbedingten verluste
+    nachteile LWL
+      wesentlich höhere Kosten in Anschaffung, Material und Verlegung
+
+  Begriffe
+    Brechungsindex
+      faktor der verringerung der geschwindigkeit von Licht gegenüber einem Vakuum
+    moden
+      Wege denen das licht durch die Faser folgen kann
+    spleiß
+      verbindung zwischen zwei verschiedenen fasern (kleben oder schmelzen)
+    einfügedämpfung
+      ein optisches bauelement dämpft das signal
+    totalreflexion
+      bei bestimmten winkeln tritt eine vollständige reflexion des lichts statt
+
+  Multimodefaser mit Stufenindexprofil
+    ø: 200µm
+    mehrere lichtwellen zugleich
+    harte relexion an den faserwänden
+  Multimodefaser mit Gradientenprofil
+    ø: 50µm
+    mehrere lichtwellen zugleich
+    weiche reflexion an den faserwänden
+    brechzahl nimmt zum mantel hin parabelförmig ab
+  Monomodefaser
+    ø: 10µm
+    lichtwellen werden gerade hindurchgeleitet
+    Nur ein Modus, also nur eine lichtwelle
+    erfordern teure laser
+
+  OSI Modell
+    Kommunikationsmodelle
+      Reduktion der Komplexität
+      Normung der Schnittstellen
+      Vereinfachung der Modularität
+      Entwicklungsbeschleunigung
+
+    Daten sind logisch gruppierte Informationseinheiten
+
+  OSI 7 Schichten Modell
+
+  7 | Anwendungsschicht (Application)     | Endbenutzerdienste          | HTTP, FTP, SMTP | Daten
+  6 | Darstellungsschicht (Presentation)  | Info über Daten             | HTTP, FTP, SMTP | Daten
+  5 | Sitzungsschicht (Session)           | Verwaltet Sitzungen         | HTTP, FTP, SMTP | Daten
+  4 | Transportschicht (Transport)        | definieren, nummerieren     | TCP, UDP        | Segment
+  3 | Vermittlungsschicht (Network)       | erstellt, adressiert Pakete | IP              | Paket
+  2 | Sicherungsschicht (Data Link)       | erstellt, adressiert Frames | Ethernet        | Frame
+  1 | Bitübertragungsschicht (Physical)   | überträgt binäre Daten      | Leitungen       | Bits
+
+Ablauf Email Versand
+  Email schreiben
+  ->Verschlüsseln und Codieren
+  ->Sitzung aufbauen
+  ->Segmentieren
+  ->Segment mit IP versehen = Paket
+  ->Paket mit MAC versehen = Frame
+  ->Frame mit Codierer versenden = Bits
+Ablauf Email Empfang
+  Bits Empfangen = Frame
+  ->MAC Adresse entfernen = Paket
+  ->IP Adresse entfernen = Segment
+  ->Dienst wartet auf Nachrichten
+  ->Sitzung verwalten
+  ->Entschlüsseln
+  ->Email lesen
+  
+  Aufgaben TCP/IP Protokoll
+    zeitlich vor OSI
+    4 Schichten
+      Application
+      Transport
+      Internet
+      Network
+    Ziele
+      Unabhängig von Netzwerk Technologie
+      Unabh. von Architektur der Host Rechner
+      Universelle Verbindungsmöglichkeiten im Netz
+      Ende zu Ende Quittungen
+      Standardisierte Anwendungsprotokolle
+
+TCP/IP VS OSI
+  TCPIP vor OSI entstanden
+  osi baut auf -> deswegen erweitert und genauer
+  Layer wurden aufgeteilt und spezialisiert
+Protokolle
+  Gruppen von Regeln
+  Ein Satz von Regeln oder eine Vereinbarung , der/die Das Format und die Übertragungsart der Daten
+  Festlegt. Sicht n auf eineme Computer kommuniiziert mit Schicht n auf einem anderen Computer.
+  Die für diese Kommunikation geltenden Regeln und Konventionen werden zusammen als
+  Schicht n Protokoll bezeichnet
+
+Ursprungsabsender->Codierung->Absender->Medium->Empfänger->Decodierung->Endgültiger Empfänger
+Daten werden segmentiert
+
+Kapselung
+  Jede Schicht erhält ihre eigene Protokoll Dateneinheit (PDU)
+  schichten stützen sich auf dienstfunktionen der darunterliegenden schichten
+  niedrigere schicht stellt der höheren ihre dienste bereit
+  header und endmarken für die verarbeitung werden zu den Daten der höheren schicht hinzugefügt
+
+
+PDU allgemeiner Begriff für Daten in den Schichten
+Segmentierung Unterteilung von Daten in kleinere Einheiten
+MAC Adresse 6 Byte lange genormte Adresse, phsyikalische adressierung, einzigartig
+IP adresse adressierung in Schicht 3
+Segment PDU schicht 4
+
+
+Layer 4 Protokolle:
+  TCP
+    Verbindungsorientiert
+    Segment beinhaltet Nr. für Zuordnung
+  UDP
+    Verbindungslos
+    -> Weniger Metadaten
+    -> keine Kontrolle der Zulieferung

@@ -1,7 +1,7 @@
 Layer 4 Protokolle:
   TCP
     Verbindungsorientiert
-    Seq. Nr. für Zuordnung ->
+    Segment beinhaltet Nr. für Zuordnung
   UDP
     Verbindungslos
     -> Weniger Metadaten
