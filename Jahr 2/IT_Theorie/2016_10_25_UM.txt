@@ -1,0 +1,28 @@
+analyse besprechung
+(Material Analyse.xlsx)
+
+switch
+  arbeitet auf L2 frames
+  leitet daten anhand von mac adressen weiter
+
+router
+  arbeitet auf L3 pakete
+  leitet daten anhand von IP adressen weiter
+
+repeater
+  arbeitet auf L1 bits
+  verstärkt hereinkommende bit signale ohne intelligenz
+
+hub
+  arbeitet auf L1
+  multiverstärker, ein eingangssignal an alle angeschlossenen
+
+bridge
+  arbeitet auf L2
+  leitet daten anhand von MAC adressen weiter
+
+  strukturierte verkabelung
+  osi
+  lwl twisted pair
+  topologien
+  

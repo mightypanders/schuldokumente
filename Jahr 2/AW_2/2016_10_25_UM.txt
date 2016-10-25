@@ -1,0 +1,6 @@
+plz und ort einem kunden zuordnen führt zu redundanzen
+  atomar halten -> plz kann auf ort verweisen
+  adresse modellieren -> beim kunden abspeichern in der prüfung und der schule
+  ansonsten 3. normalform
+  fk und pk im relationalen Modell eintragen
+  
