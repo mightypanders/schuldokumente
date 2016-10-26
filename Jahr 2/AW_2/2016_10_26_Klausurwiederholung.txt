@@ -1,0 +1,102 @@
+Argumente für Datenbanken:
+  Datenintegration
+    Vermeidung von Redundanz in gespeicherten Daten führt zu Konsistenz; müssen sie nur an
+    einer Stelle geändert werden, kommt es nicht zu inkonsistenten Zuständen
+  Datensicherung
+    Daten können nach einem Systemabsturz wiederhergestellt werden.
+    Dies ist durch eine Transaktionslog möglich, das alles Änderungen an Daten mitschneidet
+  Synchronisation
+    mehrere Nutzer arbeiten gleichzeitig auf den selben Datensätze ohne Konflikte zu erzeugen
+  Datenschutz
+    verschiedene Nutzer können unterschiedliche Zugriffsrechte haben
+  Datenoperation
+    Manipulation von Werten ist simpel möglich
+
+Datenbanksystem
+  DB
+  DBMS
+    Systemdaten - Data Dictionary
+      hält Auflistung über Datenbanken, Beschreibung der DB (Welche Tabellen und Spalten)
+
+Coddsche Regeln
+  Daten-Integration: einheitlich, nichtredundant, konsistent
+  Daten-Operation: Speichern, Suchen, Ändern, Löschen, Anlegen von Daten
+  Daten-Katalog: Data Dictionary
+  Benutzersichten: unterschiedliche sichten auf DB Ausschnitte
+  Konsistenzüberwachung: Korrektheit des DB Inhalts ist Gewährleistet
+  Datenschutz: unauthorisierter Zugriff ist verweigert
+  Transaktion: mehrere Operationen als Funktionseinheit
+  Synchronisation: parallele Transaktionen koordinieren
+  Datensicherung: Wiederherstellung von Daten nach Systemfehlern
+
+Häufige Datenbankmanagementsysteme
+  Relational
+  Document Store
+  Wide Column Store
+
+Relationale Datenbank
+  Tabelle mit eindeutigem Namen
+  Bezeichnung der Attribute sind innerhalb der tabelle eindeutig
+  Eines (oder eine Kombination) der Attribute identifiziert einen Datensatz eindeutig
+  Jedes Attribut hat einen bestimmten Datentyp
+
+ANSI SPARC Modell
+  entwickelt 1975 vom
+  American National Standards Institue Standards Planning and Requirements Commitee
+
+3 Schichten Architektur
+  externe Ebene
+    Nutzern und Anwendungen werden bestimmte Sichten auf die Datenbank bereitgestellt
+  konzeptuelle Ebene
+    Welche Daten sind in der Datenbank?
+    Welche Beziehungen haben diese Daten untereinander?
+  interne Ebene
+    physische Sicht der Daten auf der Festplatte
+    Wie und Wo die Daten in der Datenbank gespeichert werden
+
+  physische und logische Datenunabhängigkeit
+    1:  Anwenderprogramme müssen sich nicht um die Datenspeicherung kümmern
+        nur Begriffe aus der konzeptionellen Sicht werden benutzt
+        tatsächlicher Lagerort der Tabelle ist irrelevant für den Endnutzer
+    2:  Ein Datenbestand und seine Zusammenhänge können aus unterschiedlichen
+        Perspektiven interpretiert werden, auch aus unterschiedlichen Anwendungen
+        Änderungen an der DB Struktur haben keine Auswirkungen auf die externe Ebene
+        bspw. hat eine Erweiterung um eine Tabelle keine Auswirkungen auf Anwendungen
+
+Primärschlüssel
+  Datensätze dürfen nicht absolut identisch sein, sie müssen sich an mindestens einem Punkt unterscheiden
+  Ein Primärschlüssel (PK) ist eine minimale Kombination aus Attributen die einen Datensatz#
+  eindeutig identifiziert
+  Gibt es keine passenden Attribute kann ein künstlicher Schlüssel eingeführt werden
+  Bereits eindeutige Attribute können nicht um weitere Attribute erweitert werden
+  Beispiele für ein PKs
+    Ding_ID (künstlich)
+    RNr + Pos (zusammengesetzter PK)
+    RNr + ArtNr (besser nicht)
+  Aber nicht : RNr + Pos + ArtNr
+
+Referenzielle Integrität
+  es gibt keine verwaisten Foreign Keys
+  Zu jedem Fremdschlüssel muss ein Primärschlüssel an einer anderen Stelle existieren.
+  Beim Anlegen
+    Ein Datensatz mit Fremdschlüssel kann nur erstellt werden, wenn ein Primärschlüssel dazu existiert
+  Beim Löschen oder Ändern des Primärschlüssels
+    Ein Datensatz kann nur gelöscht werden wenn von seinem Primärschlüssel keine Fremdschlüssel
+    mehr abhängen
+  Kontrolle dieser Einschränkungen wird in den meisten Fällen vom DBMS übernommen
+
+
+Entity Relationship Modell
+  beschreibt die Wirklichkeit die über folgendene Teile verfügt
+    Entität: konkretes Objekt (bspw. Peter Müller, 32 Jahre alt)
+    Relation: Beziehung zwischen zwei konkreten Entitäten (Peter Müller _leitet_ Projekt 1)
+    Attribut: Was über eine Entität relevant ist (Peter Müller hat Name, Vorname, Alter)
+  ERM modelliert diese mit folgenden Teilen
+    Entitätstyp: abstrakte Beschreibung einer Entität um sie für mehrere Objekt gültig zu machen
+    Beziehungstyp: Typisierung gleichartiger Beziehung unter einem Namen
+    Attribut: Typisierung gleichartiger Eigenschaften
+      Eindeutige oder eindeutig werdende Kombinationen aus Attributen heißen identifizierende Attribute
+  Entität: Rechteckiger Kasten
+  Attribut: Ellipse
+  Relation: Diamantförmiger Einsatz in einer Verbindungslinie zwischen Entitäten
+    kann auch Attribute haben
