@@ -99,4 +99,9 @@ Entity Relationship Modell
   Entität: Rechteckiger Kasten
   Attribut: Ellipse
   Relation: Diamantförmiger Einsatz in einer Verbindungslinie zwischen Entitäten
-    kann auch Attribute haben
+    kann bei einer n:m Beziehung auch Attribute haben
+
+  Transformationsregel ERM -> Relationales Datenbank Modell (RDBM)
+  Zwischentabelle erstellen, künstlichen Primärschlüssel definieren
+  Primärschlüssel aus "n" und "m" Tabellen als Fremdschlüssel übernehmen
+  Verbindungen als 1 zu n übernehmen. (keine n zu m Beziehungen)
