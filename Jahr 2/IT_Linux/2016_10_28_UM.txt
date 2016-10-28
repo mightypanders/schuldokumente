@@ -1,0 +1,15 @@
+CLI
+standard benutzerschnittstelle
+erste shell von mr bourne
+
+funktionen
+  startet kommandos
+  wildcars über * an kommandos weitergeben
+  konstrollstrukturen
+  interne kommandos
+  interne variablen (referenziert mit $(bspw. $HOME))
+
+12.2.
+1) cd * wechselt zum ersten ordner der der wildcard entspricht
+2) "-i" ist ein parameter in vielen programmen, "rm" bspw. will dateien interaktiv löschen, aber weiß nicht welche datei
+3)
