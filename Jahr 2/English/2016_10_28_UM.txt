@@ -10,19 +10,17 @@ Advantages of LAN
   Share printer, files, scanners easily
   communicate easily
 Disadvantages
+  range is limited to around 500 m
+
+LAN vs Intranet
+  private computer network which uses internet protocols and network connectivity to access a pool of information or operations
 
 
 Describe the Network
-  Pictured is a network, most likely in an office setting.
-  Two external networks, a different Novell LAN and an unnamned Unix Network are connected via a Bridge and a Gateway, respectively, to a Fibreoptic Backbone,
-  a very fast network connection, handling communication and file transfer between the networks.
+  Pictured is an excerpt of a network, most likely in an office setting.
+  Two external networks, a different Novell LAN and an unnamned Unix Network are connected via a Bridge and a Gateway, respectively, to a Fibreoptic Backbone, a very fast network connection, handling communication and file transfer between the networks.
   The bridge links similar networks together, while a gateway is used to link networks that differ from each other and can't talk to each other directly.
   A bridge connects a more detailed network to the backbone.
-  The centre piece of this network seems to be a file server, a computer that is only connected to a network and not meant for day to day tasks,
-  which is connected to a shared hard disk, providing access to its saved files for the rest of the network.
-  Seven differend workstation PCs are connected in series to server forming a ring network. One of the workstations has a Local printer connected to it,
-  most likely for special printing tasks. A shared network printer is connected to the file server, providing access to it, for all the connected
-  devices in the network. Furthermore there is a router connected to the file server, which handles communicating with the outside world. It directs packages
-  that are not addressed to anyone in the local network but in remote networks.
-  All the cabling connections in this network are done with twisted pair cabling, a sort of cable, that features four pairs of wires that are each twisted up
-  to limit interference with each other. The workstations are equipped with network interface cards to facilitate the network communication.
+  The centre piece of this network seems to be a file server, a computer that is only connected to a network and not meant for day to day tasks, which is connected to a shared hard disk, providing access to its saved files for the rest of the network.
+  Seven differend workstation PCs are connected in series to server forming a ring network. One of the workstations has a Local printer connected to it, most likely for special printing tasks. A shared network printer is connected to the file server, providing access to it, for all the connected devices in the network. Furthermore there is a router connected to the file server, which handles communicating with the outside world. It directs packages that are not addressed to anyone in the local network but in remote networks.
+  All the cabling connections in this network are done with twisted pair cabling, a sort of cable, that features four pairs of wires that are each twisted up to limit interference with each other. The workstations are equipped with network interface cards to facilitate the network communication.
