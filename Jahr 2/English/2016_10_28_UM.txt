@@ -6,6 +6,8 @@ Klausurthemen
   Email
   Operating systems
 
+LAN = Local Area Network
+
 Advantages of LAN
   Share printer, files, scanners easily
   communicate easily
