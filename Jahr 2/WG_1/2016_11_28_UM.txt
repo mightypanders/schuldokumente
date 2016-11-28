@@ -19,7 +19,7 @@ Situation
 Ideen
   Wellnessbereich ausbauen -> Marktentwicklung / Produktentwicklung
   Neues Design bei Fitnessgeräten -> Produktentwicklung
-  Neue trendprodukte entwickeln -> Produktentwicklung / Diversifikation
+  Neue trendprodukte entwickeln -> Produktentwicklung / Diversifikationq
   Preis / Personal überdenken -> Marktdurchdringung
   Marketing / Werbung -> Marktdurchdringung
   Kundenwünsche ermitteln -> Marktentwicklung
@@ -37,3 +37,28 @@ Produktentwicklung
 
 Diversifikation
   mit neuen Produkten in neue Märkte eindringen
+
+Marktforschung
+  Angebote Werbung
+
+  Marktpotenzial
+    was könnte unter optimalen bedinungen am markt abgesetzt werden
+  Absatzpotenzial
+    Marktanteil den ein Unternehmen theoretisch haben könnte
+  Marktvolumen
+    tatsächliches Absatzvolumen
+  Marktanteil
+    Anteil eines Unternehmens am Absatzvolumen
+
+Klausurthemen
+  Sozialversicherung
+  Entgeldabrechnung
+  Prozentwerte (KV, RV)
+  Lohnsteuer (Klassen)
+  Vermögenswirksame Leistungen
+  Wohnbauprämie, Arbeitnehmersparzulage
+  Kaufmotive (rational emotional)
+  Absatzmarketing, (Ver)Käufermärkte
+  Marktfeldstrategien
+  Marktforschung
+  
