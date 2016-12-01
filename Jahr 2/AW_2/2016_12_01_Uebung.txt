@@ -1,0 +1,5 @@
+Aufgabe 5.1
+select abtnr from abteilung where budget > 30000
+union
+select abtnr from projekt where budget > 2000
+Aufgabe 5.2
