@@ -42,7 +42,7 @@ The difference between applications software and operating systems:
 
   Supervisor Program
     The supervisor program manages the operation and execution of all other
-    programs and loads them from disk into memory when they are requested. 
+    programs and loads them from disk into memory when they are requested.
 
   Resident and non resident programs
     Resident programs stay in the working memory of the system while non-resident
@@ -51,7 +51,7 @@ The difference between applications software and operating systems:
     operation of the system.
 
   main functions of an operating system
-    The most important, and mostyl invisible, task of an operating system is the
+    The most important, and mostly invisible, task of an operating system is the
     management of the hardware of the machine. The interaction between all these
     components is managed by the OS.
     The most visible aspect is the user interface that allows a normal person
