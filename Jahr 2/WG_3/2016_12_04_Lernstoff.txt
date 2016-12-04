@@ -1,0 +1,170 @@
+Sozialversicherung
+  RV 18,7% aufgeteilt 9,35%/9,35% AN/AG
+  AV 3,0% aufgeteilt 1,5%/1,5% AN/AG
+  KV 14,6% aufgeteilt 7,3%/7,3% AN/AG (evtl 1,1% Zusatzbeitrag für AN)
+  PV 2,35% aufgeteilt 1,175%/1,175% AN/AG (AN kindlerlos > 23 +0,25%)
+
+Lohnsteuerklassen
+  1 Ledige, Geschieden, Verwitwet
+  2 Klasse 1 mit Kind und Kinderfreibetrag
+  3 verheiratete Arbeitnehmer, Gatte hat geringen Verdienst und in Klasse 5
+  4 verheiratete AN, ähnlicher Lohn
+  5 Wechsel von 4 in 5 wenn Partner in 3
+  6 zwei arbeitnehmer
+
+Abgabgen
+  Solidaritätszuschlag
+    wird erst gezahlt wenn der Lohnsteuersatz Nullzone verlässt
+      Klasse 3 162€
+      andere Klassen 81€
+    Krichensteuer wird dennoch berechnet
+    Soli beträgt 5,5% und wird vom Lohnsteuerbetrag berechnet
+  Kirchensteuer
+    beträgt 9% in NRW und wird vom Lohnsteuerbetrag berechnet
+
+Vermögenswirksame Leistungen (alles auf Nettoeinkommen bezogen)
+Arbeitnehmer Sparzulage
+  Bausparen               Ledig   Verheiratet 1 An    verheiratet 2 An
+  maximal Sparleistung    470€    470€                940€
+  Förderungshöhe          9%      9%                  9%
+  Maximal Zulage          42,30€  42,30€              84,60€
+  Einkommensgrenze        17,9k€  35,8k€              35,8k€
+
+  Fondsparen              Ledig   Verheiratet 1 An    verheiratet 2 An
+  maximal Sparleistung    400€    400€                800€
+  Förderungshöhe          20%     20%                 20%
+  Maximal Zulage          80€     80€                 80€
+  Einkommensgrenze        20k€    40k€                40k€
+
+Zu beantragen bei der Einkommenssteuererklärung
+
+Wohnbauprämie
+  wohnbau                 Ledig   Verheiratet 1 An
+  maximal Sparleistung    512€    1024€
+  Förderungshöhe          8,8%    8,8%
+  Maximal Zulage          45,06€  90,11€
+  Einkommensgrenze        25,6k€  51,2k€
+
+Kaufmotive
+  Rational
+    Verlässlichkeit
+    Sicherheit
+    Problemlösungsfähigkeit
+    Lieferfähigkeit
+    Service
+    Preis
+    Sparsamkeit
+  Emotional
+    Image
+    Neugier
+    Soziales Ansehen
+    Kompetenz (des Verkäufers)
+    Tradionalität
+    Ehrlichkeit
+    Wohlfühlen
+    Innovation
+    Bildung
+    Gesundheit
+
+Absatzmarketing
+  Ausrichtung der Aktivitäten an Bedürnisse des Kunden
+  sämtliche unternehmerischen aktivitäten, die einen Absatzmarkt
+  für das Produkt erhalten oder schaffen
+
+    Verkäufermärkte: Angebot ist kleiner als Nachfrage. VK am Drücker
+    Käufermärkte: Angebot ist größer als Nachfrage. NF am Drücker
+
+    Gründe für Bedeutsamkeit
+      Käufermärkte
+      Verändertes K.Verhalten
+        mehr informiertheit, kurzlebigkeit, ständige Veränderung
+      Veränderte Vertriebsstruktur
+        nicht mehr Produzent->Großhandel->Einzelhandel
+          jeder mischt überall mit
+
+  um sich am markt orientieren zu können muss das Unternehmen
+    den Markt kennen (Informationsseite) (Marktforschung)
+    die richtigen Maßnahmen wählen (absatzpolitische Instrumente)(aktionsseite)
+
+  erfolg hängt davon ab rechtzeitig und angemessen Marktänderung zu berücksichtigen.
+  Marketingziele (abgeleitet aus Unternehmenszielen)
+    Gewinn, Rentabilität, Wirtschaftlichkeit orientieren sich immer mehr am Markt
+  Ziele beim einsatz der Abs.polit. Instrumente werden aus Marketingzielen abgeleitet
+    Preispolitisch
+    Vetriebspolitisch
+    Kommunikationspolitisch
+    Produktpolitisch
+
+Marktforschung
+  Grundbegriffe
+    Marktpotenzial: Der _könnte_ verkaufen
+    Absatzpotenzial: Mein Anteil am Markpotenzial
+    Marktvolumen: Was wurde tatsächlich verkauft
+    Marktanteil: Mein Anteil am Marktvolumen
+  Definition:
+    gezielte, planmäßige Beschaffung, Aufbereitung, Analyse von Infos.
+    kontra Markterkundung: spontane, unsystematische Ermittlung von Informationen.
+  Bereiche der MF
+    ökoskopische
+      sachbezogene Forschung, objektive Zahlen
+    demoskopische
+      Marktteilnehmer, subjektive Einstellungen
+  Bedarfsforschung
+    Anzahl der mögl. Kunden, Kaufkraft, Konsumverhalten
+  Konkurrenzforschung
+    Anzahl der Konkurrenten, Marktanteile
+  Absatzforschung
+    bekanntheit der eigenen Marken, Verbreitungsgrad des Sortiments
+
+  Marktbeobachtung
+    Datenerhebung im längerfristigen Bereich
+    wissen über Veränderungen und trends
+  Marktanalyse
+    Erhebung zu einem bestimmten Stichtag
+
+  Primärforschung
+    Erstbeschaffung, Informationen werden neu erhoben
+    aktuell, passgenau, zeit&kostenintensiv
+  Sekundärforschung
+    Daten sind bereits vorhanden
+    schnell verfügbar, günstig, weniger aktuell, ungenauer
+
+Marktfeldstrategien
+  Marktdurchdringung
+    mit bestehenden Produkten und Märkten besser an Kunden heran treten
+
+  Marktentwicklung
+    mit bestehenden Produkten in neue Märkte und andere Kunden heran treten
+
+  Produktentwicklung
+    mit neuen Produkten an bestehende Kunden heran treten
+
+  Diversifikation
+    mit neuen Produkten in neue Märkte eindringen
+
+  Maßnahmen nach Feld
+    MarkutDurchdringung
+      Ziele
+        Produktverwendung erhöhen
+        Kunden erobern
+        Nichtverwender gewinnen
+      Maßnahmen
+        Werbung
+        Preisreduktion
+        Verkaufsförderungsaktionen
+    MarktEntwicklung
+      bisher nicht genutzte Märkte
+      zusätzliche Abs.Märkte
+        regionale, (inter)nationale Ausdehnung
+      neue Marktsegmente
+        zielgruppenspezifische Produkte
+      neue zusatzmärkte für bestehende Produkte
+        durch neue verwendungszwecke
+    ProduktEntwicklung
+      bestehende kunden mit neuen produkten befriedigen
+        Innovationen schaffen
+        zusätzliche Produktvariationen schaffen
+    Diversifikation
+      neue Produkte neue Märkte
+        riskant, da weder Markt noch Produkterfahrungen vorhanden sind.
+        
