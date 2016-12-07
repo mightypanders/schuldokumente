@@ -1,0 +1,74 @@
+Bearbeitung Workbook STP Aufgabe 7,9,10,11
+
+1.Schritt Finden der Root Bridge
+-> switch mit niedrigster Prioriät wird RB
+-> Bei gleichstand -> niedrigste MAC Adresse
+
+2. Finden der Root Ports
+-> Ports einer nicht-RootBridge mit den niedrigsten Kosten zur Rb werden zum RP
+-> Bei gleichstand niedriste AbsenderBIB->
+
+3. Schritt Finden der designierten Ports
+-> Ports gegenüber RP sind designierte Ports
+-> Ports mit den niedrigsten Kosten zur Root Bridge werden zu design Ports
+-> bei Gleichstand -> kleinere Absender BIB
+-> anderer Port wird geblockt
+
+IP v4 Adressen
+-Aufbau
+  -4 Oktette -> 32 Bits
+  -Oktette getrennt durch "."
+  -1 Oktett - 8 Bit
+  -Wertebereich pro Oktett: 0-255
+-Subnetz
+  -Netzteil
+    -Netz in kleine Teile aufteilen
+  - Anzahl adressen
+    -2^32
+  -Hostteil
+    -Eine bestimmte Anzahl von Hosts können in einem Netz kommunizieren
+    -Verkleinerung der Broadcastdomäne
+    -(Netz)Klassen (X Netzteil x Hostteil)
+      -A großes Netz Präfix 1-127
+      -B Mittleres Netz Präfix 128-191
+      -C Kleines Netz Präfix 192-223
+      -D Multicast -> Präfix
+-Vergabe
+  -ICANN (Internet Corporation for Assigned Names and Numbers)
+  -Zuweisungen an ISP
+  -Eindeutige NetzAdresse
+  -Vergabe an Host
+    -statisch
+    -dynamisch (DHCP)
+-Merkmal
+  -IP Adresse darf nicht aus komplett "0" bestehen
+-DNS
+  IP-Name
+  Name-IP
+
+
+
+(Netz)Klassen (X Netzteil x Hostteil)
+    -A
+      XXXXXXXX.xxxxxxx.xxxxxxxx.xxxxxxxx
+      Anzahl Netze A=2⁸=256
+      Anzahl Hosts A=2²⁴=16 Mio.
+      0XXXXXXX.00000000.00000000.00000000
+        00000000 ~ 0 // 01111111 ~ 127 > 1-127
+      Null Präfix reserviert in Klasse A
+
+    -B
+      XXXXXXXX.XXXXXXXX.xxxxxxxx.xxxxxxxx
+      Anzahl Netze A=2¹⁶=65536
+      Anzahl Hosts A=2¹⁶=65536
+      10XXXXXX.00000000.00000000.00000000
+        10 000000 ~ 128 - 10 111111 ~ 191
+    -C
+      XXXXXXXX.XXXXXXXX.XXXXXXXX.xxxxxxxx
+      Anzahl Netze A=2²⁴ 16 Mio
+      Anzahl Hosts A=2⁸   256
+      110XXXXX.00000000.00000000.00000000
+        110 00000 ~ 192 - 110 11111 ~ 223
+    -D
+      1110XXXX.00000000.00000000.00000000
+        1110 0000 ~ 224 - 1110 1111 ~ 239
