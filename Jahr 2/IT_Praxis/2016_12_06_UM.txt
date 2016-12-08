@@ -26,6 +26,8 @@ IP v4 Adressen
   - Anzahl adressen
     -2^32
   -Hostteil
+    -Alle Bits auf 0: Netzadresse
+    -Alle Bits auf 1: Broadcast
     -Eine bestimmte Anzahl von Hosts können in einem Netz kommunizieren
     -Verkleinerung der Broadcastdomäne
     -(Netz)Klassen (X Netzteil x Hostteil)
@@ -33,6 +35,10 @@ IP v4 Adressen
       -B Mittleres Netz Präfix 128-191
       -C Kleines Netz Präfix 192-223
       -D Multicast -> Präfix
+-Subnetzmaske
+  -Trennt Netz von Host
+  -/ Slash
+  -Dezimal wie IP
 -Vergabe
   -ICANN (Internet Corporation for Assigned Names and Numbers)
   -Zuweisungen an ISP
@@ -45,6 +51,12 @@ IP v4 Adressen
 -DNS
   IP-Name
   Name-IP
+-NAT
+  -Globale
+  -Private
+    -A. 10.0.0.0 - 10.255.255.255
+    -B. 172.16.0.0 - 172.31.255.255
+    -C. 192.168.0.0 - 192.168.255.255
 
 
 

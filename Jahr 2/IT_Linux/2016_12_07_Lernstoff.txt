@@ -1,0 +1,192 @@
+Virtualisierung
+  Befehle werden durchgereicht
+  in Form von Maschinencode
+  Vorteil: schneller als Emulation
+    wird oft genutzt um Hardware vollständig auszulasten
+Emulation
+  Befehle werden nachgebildet
+  Befehle werden übersetzt von einem Maschinencode in den anderen
+  simuliert die Hardware eines anderen Systems in Software
+  Vorteil: beliebige System können emuliert werden
+
+Begriffe
+  Vollvirtualisierung
+    kein Host OS
+    Hypervisor wird direkt auf der Hardware installiert
+    fast alle Befehle direkt auf der Hardware
+    es wird eine virtualisiert Umgebung zur Verfügung gestellt, die sich für den Gast
+      kaum von der realen Umgebung unterscheidet
+  Paravirtualisierung
+    Virtualisierungssoftware stellt eine ähnliche aber nicht identische HW Schnittstelle
+      zur Verfügung
+    -> Soll schwer zu virtualisierende Operationen beschleunigen
+    ähnliche Schnittstelle zur HW
+      ->+performance
+      ->-Anpassung beim Gast erforderlich
+  Bare Metal
+    Hypervisor wird direkt auf HW installiert und ist Host für Guests
+
+Gründe für Virtualisierung
+  unterschiedliche OS auf einer Hardware
+  Serverkonsolidierung
+    Senkung der Anschaffungs- und Folgekosten
+    gesteigerte Effizient und Flexibilität
+    flexible und leicht erweiterbare Infrastruktur
+    zentrale Administration
+  höhere Sicherheit
+  Eigenes Netzwerk auf Host (kapselung)
+  Entwicklersystem
+  test von client und server auf einer Maschine
+Vorteile VM
+  kein schaden an installiertem OS
+  Reale Maschinen in virtuelle verwandeln
+  Einfacher Transfer (portabel)
+  sicherer
+  Komponentenänderungen
+Nachteile VM
+  ressourcenverbrauch höher
+  bestimmte Prozessorarten müssen unterstützt werden
+  problematische Hardwaretreiber
+  keine anspruchsvollen Grafikanwendungen
+
+Linux als Netzwerkbetriebssytem
+
+  Server Funktionen & Ports
+    File Transfer
+      NFS 111
+      FTP 21
+      SMB 137-139
+    DNS
+      DNS 53
+    Email
+      POP3 110
+      SMTP 25
+    File Sharing
+      NFS 111
+      SMB 137-139
+    Print
+      LPD 515
+    Dynamic IP
+      DHCP 67/68
+    Webserver
+      HTTP 80(80)
+
+  Merkmale eines NOS
+    Sicherheitsvorrichtungen, Richtlinien
+    Benutzermanagement, Rechtevergabe
+    Bereitstellung von Massenspeicher
+    Dienste
+    gemeinsame Peripherie (Drucker, Scanner)
+    Kommunikatione (Email, Chat)
+    Multi-User-Software
+    Sicherheit, Skalierbarkeit, Leistungsfähigkeit, Kosten
+
+  Funktionen eines NOS
+    Nutzermanagement
+    Administration menügesteuert aus Text Datei oder DB
+    Flexibel
+      Platz, Rechte, Sprache, Standardwerte
+    Installation Server Hardware
+    Festplattenwechsel auch während des Betriebs (mounting im laufenden Betrieb)
+    Schnittstellen während des Betriebs neu konfigurieren
+    Installation Anwender Software
+    Auf Workstation oder vom Server
+    Konfig auf WS oder am Server
+
+  Sicherheit NOS
+    Login notwendig
+    Remoteconsole
+    Reboot nur noch DOWN oder durch HW reset
+    ausfallsichere Dateisysteme
+
+  Zusammenfassung Vorteile Linux Server
+    Sourcecode verfügbar
+    heterogene Netze
+    Applikationsserver
+    Modemsupport
+    hohe performance, Skalierbarkeit
+
+  Einsatz NOS
+    dedicated server in firmen
+    distributionen (debian, ubuntu, RedHat)
+
+Command Line Interface
+  Programm zur Kommunikation mit dem Kernel
+  Applikation -> Shell -> Kernel
+  unterschiedliche shells möglich
+    zsh, bash, ksh
+
+  Funktionen
+    Starten von Kommandos
+    Datei Namen Wildcards als Kommandoargumente
+    Bedinungen und Schleifen
+    Zugriff auf interne Kommandos (cd, read)
+    Zugriff auf interne Variablen
+    Manipulation der Umgebungsvariable für neue Prozesse
+    Input/Output Umlenkung
+    Starten mehrerer Prozesse, Verkettung über Pipes
+    Hintergrund prozesse starten
+
+Schritte zur Befehlsausführung
+  -eingegebene Zeile in Wörter auflösen
+    zusammenhängende Zeichenketten, getrennt durch MetaCharakter
+  -Auflösen von Alias und Funktionen
+  -Auflösen von geschweiften Klammer Ausdrücken
+  -Auflösen von Tilde Ausdrücken
+  -Auflösen von Variablen
+  -Auflösen von Wildcards
+    * 1 oder mehr Zeichen
+    ? genau ein Zeichen
+    [0-9] ein Ziffer in diesem Bereiche
+    [xyz] ein Buchstabe von den dreien
+    [^xyz] alles außer eins der dreien
+    [:digit:] ein zeichen eine vordefinierten Klassen
+  -Auflösen von Datenumleitungen
+      >Datei Umlenkung der Ausgabe in Datei
+      <Datei Umlenkung der Eingabe aus Datei
+    3 Standardkanäle
+      STDIN erwartet Eingabe
+      STDOUT Ausgabekanale
+      STDERR Kanal für Fehlermeldungen
+      können mit Pipes "|" verkettet werden, STDOUT wird STDIN für anderes Programm
+
+Runlevel
+  werden beim Systemstart ausgeführt
+  definieren den Systemzustand nach dem Start
+  verschieden Runlevel:
+    Single-User-Mode
+    Multi-User-Mode ohne Netzwerk
+    Multi-User-Mode mit Netzwerk
+    System Shutdown
+    System Reboot
+Das "find" Kommando
+
+  find <Verzeichnis><Suchkriterien> [-exec Befehl]
+
+Bsp. In Temp und unterverzeichnissen alle Dateien
+    mit mindestens einer Ziffer im Namen löschen
+
+    find /tmp -name "*[0-9]*" -exec rm {}\;
+    ls !(*WORD*) // alles was _nicht_ auf diesen Ausdruck zutrifft
+
+VI
+  Unabhängig vom terminal
+    deswegen keine spezifischen Sondertasten
+  GRoße Kommandomenge
+    hohe lernschwelle
+  kommandos werden in syntax gekettet um erlernbarkeit zu erhöhen
+  Haupteinsatz
+    Systemdateien bearbeiten
+    keine wysiwyg
+
+  vi Modi
+    vi-Kommandomodus
+      direkte kommandos ohne :
+    Eingabe modus
+    ex-Kommandomodus
+      kommandos mit :
+
+man - System
+  man [Befehl] Handbuchseite für Befehl
+  man -f [Befehl] suche nach seiten die genau [Befehl] heißen
+  man -k [Befehl] suche nach Stichwort [Befehl] in name und beschreibung

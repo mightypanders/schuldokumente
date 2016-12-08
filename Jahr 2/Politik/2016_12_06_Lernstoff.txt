@@ -8,16 +8,18 @@ Tarifvertrag
   gültig wenn Mitarbeiter Mitglied der Vertragsgruppe sind
 
 Rangfolge der Rechtsquellen
-Grundgesetz
-  Gesetz
-    Tarifvertrag
-      Betriebsvereinbarung
-        Arbeitsvertrag
-          Weisung
-  Rangfolgeprinzip
-    Eine höher rangige Rechtsquelle gibt den Rahmen vor in dem eine niederrangige Rechtsquelle agieren darf.
-  Günstigkeitsprinzip
-    Eine Regelung aus einer ranghöheren Rechtsquelle kann nur im positiven Sinne für den Empfänger überschrieben werden.
+  Grundgesetz
+    Gesetz
+      Tarifvertrag
+        Betriebsvereinbarung
+          Arbeitsvertrag
+            Weisung
+
+Rangfolgeprinzip
+  Eine höher rangige Rechtsquelle gibt den Rahmen vor in dem eine niederrangige Rechtsquelle agieren darf.
+
+Günstigkeitsprinzip
+  Eine Regelung aus einer ranghöheren Rechtsquelle kann nur im positiven Sinne für den Empfänger überschrieben werden.
 
 Vertragsfreiheit
   geltend im Arbeitsrecht allerdings eingeschränkt durch rangfolgeprinzip
@@ -44,8 +46,6 @@ Arbeitsschutz:
   36 Monate Elternzeit
   mind. 2 Monate in Elternzeit -> 14 Monate Elterngeld
   ]
-
-Tarifverträge, Arbeitsrecht
 
 Arbeitsvertrag regelt:
   Arbeitszeiten
