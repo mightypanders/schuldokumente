@@ -32,12 +32,12 @@ Arbeitslosenversicherung
 Pflegeversicherung
   Beitragssatz(mit Kindern): 2,35%
     Arbeitgeber 1,175%
-    Arbeitnehmer 1,175%
+    Arbeitnehmer 1,175% (ohne Kinder über 23: 1,425)
     (Außer sachsen:
       arbeitgeber: 1,675%
       arbeitnehmer: 0,675%
     )
-  Beitragssatz(ohne Kinder): 2,6%
+
 Unfallversicherung:
   Beitragssatz abhängig von betrieblicher Gefahrenklasse
     getragen von arbeitgeber

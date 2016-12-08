@@ -1,0 +1,9 @@
+Das "find" Kommando
+
+  find <Verzeichnis><Suchkriterien> [-exec Befehl]
+
+Bsp. In Temp und unterverzeichnissen alle Dateien
+    mit mindestens einer Ziffer im Namen löschen
+
+    find /tmp -name "*[0-9]*" -exec rm {}\;
+    ls !(*WORD*) // alles was _nicht_ auf diesen Ausdruck zutrifft

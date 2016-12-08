@@ -1,0 +1,116 @@
+Arbeitsrecht
+  regelt das Arbeitsleben
+
+Gewerkschaft
+  Zusammenschluß von Arbeitnehmern eines Berufsfelder zur Interessenvertretung
+  Arbeitgeberverbände
+Tarifvertrag
+  gültig wenn Mitarbeiter Mitglied der Vertragsgruppe sind
+
+Rangfolge der Rechtsquellen
+  Grundgesetz
+    Gesetz
+      Tarifvertrag
+        Betriebsvereinbarung
+          Arbeitsvertrag
+            Weisung
+
+Rangfolgeprinzip
+  Eine höher rangige Rechtsquelle gibt den Rahmen vor in dem eine niederrangige Rechtsquelle agieren darf.
+
+Günstigkeitsprinzip
+  Eine Regelung aus einer ranghöheren Rechtsquelle kann nur im positiven Sinne für den Empfänger überschrieben werden.
+
+Vertragsfreiheit
+  geltend im Arbeitsrecht allerdings eingeschränkt durch rangfolgeprinzip
+
+Arbeitsschutz:
+  technischer Arbeitsschutz
+    Schutzkleidung
+    Arbeitssicherheit
+      Sicherheitsmaßnahmen
+    Sicherer Arbeitsplatz
+      Büroeinrichtung
+        Ergonomie
+  sozialer Arbeitsschutz
+    für alle Arbeitnehmer
+      Arbeitszeitengesetz
+      Allgemeines Gleichbehandlungsgesetz
+      Bundesurlaubsgesetz
+    für einzelne Arbeitnehmergruppen
+      Mutterschutzgesetz
+      Jugendarbeitsschutzgesetz
+      Schwerbehindertenschutzgesetz
+  [
+  12 Monate Elterngeld
+  36 Monate Elternzeit
+  mind. 2 Monate in Elternzeit -> 14 Monate Elterngeld
+  ]
+
+Arbeitsvertrag regelt:
+  Arbeitszeiten
+  Kündigungsfristen
+  Probezeiten
+  Pflichten
+  Rechte
+
+Rechte des Arbeitnehmers
+  Zahlung einer Vergütung
+    Höhe der Vergütung muss sich an Rechtsquellen halten
+    zahlbar am letzten Werktag des Monats
+      sonst Abmahnung
+    Sonderzahlungen
+  Gewährung von Erholungsurlaub
+    min. 24 Werktage/Jahr
+  Fürsorge
+    Arbeitsschutz
+    Anmeldung zur Sozi.versicherung
+  Krankengeld
+    6 Wochen 100% vom AG
+    danach 60%brutto/90%netto von KK
+  Zeugnis(einfach/qualifiziert)
+  Einhaltung der Kündigungsfrist
+    mindestfrist 4 Wochen
+    verlängert sich mit Zugehörigkeit
+
+Pflichten des Arbeitnehmers
+  Dienste leisten
+    nur berufsbezogene Pflichten
+    bezogen auf Betrieb
+  Anweisungen Folge leisten
+    aus Vertrag ergeben
+    passend zum Beruf
+  Schweigepflicht
+    keine Weitergabe von Betriebsgeheimnissen an Dritte
+    personenbezogene Daten
+  Handelsverbot
+    Nebentätigkeit in der selben Branche
+  Wettbewerbsverbot
+
+Kündigungsschutzgesetz
+  Kündigungsfristen
+    unter 25: 4 Wochen
+    ab 25: nach betriebszugehörigkeit
+    in probezeit: 2 Wochen
+    Wenn AN kündigt: 4 Wochen
+  Voraussetzungen
+    ab > 10 AN
+    6 Monate im Betrieb
+  Kündigungsarten
+    ordentlich
+      fristgerecht
+    außerordentlich
+      fristlos
+    Änderungskündigung
+      Vertragsänderungen
+  sozialgerechtfertigte Gründe
+    personenbedingt
+      Grund in der Person des AN
+      Eigenschaften verhindern Arbeitsfähigkeit
+    verhaltensbedingt
+      Grund im Verhalten des AN
+    betriebsbedingt
+      Sozialauswahl
+        gekündigt werden AN, die es am wenigsten trifft
+      Grund im Betrieb des AG
+      Umstrukturierung, Betriebsschließung...

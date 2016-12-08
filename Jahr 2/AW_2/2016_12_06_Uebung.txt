@@ -1,0 +1,53 @@
+Aufgabe 3.2
+select p.persnr,p.nname,p.vname,a.abtname
+from personal p
+left join projekt pr
+on p.projnr=pr.projnr
+left join abteilung a
+on pr.abtnr=a.abtnr
+order by p.persnr asc
+
+Aufgabe 3.3
+select chef.*
+from personal p
+left join projekt proj
+on p.projnr=proj.projnr
+left join abteilung abt
+on proj.abtnr=abt.abtnr
+left join personal chef
+on abt.chefnr=chef.persnr
+where p.vname = 'Heinz'
+
+Aufgabe 3.4
+select p.*
+from personal p
+left join projekt pj
+on p.projnr=pj.projnr
+left join abteilung abt
+on pj.abtnr=abt.abtnr
+left join personal ch
+on abt.chefnr=ch.persnr
+where ch.vname = 'Donald'
+
+aufgabe 3.5
+select distinct a.abtname,a.budget
+from abteilung a
+inner join projekt p
+on a.budget=p.budget
+order by a.abtname
+
+Aufgabe 3.6
+select distinct ak.persnr, to_char(ak.datum.'YYYY') as JAHR
+from akte ak
+join akte a
+on ak.persnr = a.persnr
+and ak.gehalt - a.gehalt >=1000
+and to_char(ak.datum,'YYYY') = to_char(a.datum,'YYYY')
+
+Aufgabe 3.7
+select p.persnr,p.vname,p.nname,a.position
+from personal p
+left join akte a
+on p.persnr=a.persnr
+where p.nname like '%a%'
+order by persnr,position
