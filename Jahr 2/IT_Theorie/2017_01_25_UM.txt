@@ -1,0 +1,58 @@
+Subnetting Teil 2 IP Adressen Klassen wiederholung
+
+Vorteile Subnetze
+  - Reduzierung der Netzwerklast
+    Broadcast Nachrichten, Datenverkehr
+  - Verwaltung der Host PC's
+    Diagnose
+  - Abbildung von Unternehmensbereichen
+    vereinfachte Sicherheit durch Zugriffsregeln
+
+=> Anforderung: jeweils 50 Endgeräte für die Produktion und die Personalabteilung
+  192.168.1.0\24 = 254 IP-Adressen
+=>Gesamt: 50 (Endgeräte1) + 50 (Endgeräte2) + 2 (Default Gateway) + 2(Switches) = 104 IP-Adressen
+
+=> Das Klasse C Netz in 2 Subnetze aufteilen
+192.168.1 | xxxxxxxx
+Netzteil  | Hostbits (Ab der ersten Stelle können Hostbits zu Netzbits geändert werden)
+  erstes Subnetz
+    192.168.1.00000000
+    192.168.1.0 (Netzadresse; nicht nutzbar)
+    192.168.1.00000001
+    192.168.1.1
+    ...
+    192.168.1.01111110
+    192.168.1.126
+    192.168.1.01111111
+    192.168.1.127 (Broadcast; nicht nutzbar)
+  zweites Subnetz
+    192.168.1.10000000
+    192.168.1.128 (Netzadresse; nicht nutzbar)
+    192.168.1.10000001
+    192.168.1.129
+    ...
+    192.168.1.11111110
+    192.168.1.254
+    192.168.1.11111111
+    192.168.1.255 (Broadcast; nicht nutzbar)
+
+DHCPDISCOVER
+  Ein Client ohne IP Adresse sendet eine Broadcast Anfrage
+  nach Adress Angboten an den/die DHCP Server im lokalen Netz
+DHCPOFFER
+  Der/Die DHCP Server antworten mit entsprechende Werten auf eine DHCPDISCOVER Anfrage
+DHCPREQUEST
+  Der Client fordert (eine der angebotenten) IP Adressen weitere Daten sowie eine Verlängerung
+  der Leasezeit von einem der antwortenden DHCP Server
+DHCPACK
+  Bestätigung des DHCP Servers zu einer DHCPREQEUST Anforderun
+DHCPNAK
+  Ablehung einer DHCPREQUEST Anforderung durch den DHCP Server
+DHCPDECLINE
+  Wenn der Server eine DHCPDECLINE Nachricht erhält, hat der Client durch einige andere Mittel entdeckt,
+  dass die angedeutete Netzadresse bereits in Gebrauch ist. Der Server MUSS die Netzadresse als verfügbar kennzeichen und sollte den lokalen Systemverwalter über ein mögliches Konfigurationsproblem benachrichtigen
+DHCPRELEASE
+  Nach Empfang einer DHCPRELEASE Nachricht kennzeichnet der Server die Netzadresse als nicht zugeteilt. Der Server SOLLTE eine Aufzeichnung der Initialisierungsrahmen des Kunden für den möglichen Wiedergebraucht als Antwort auf nachfolgende Bitten vom Client behalten.
+DHCPINFORM
+  Der Server antwortet auf eine DHCPINFORM Nachricht durch das Senden einer DHCPACK Nachricht direkt
+  an die im "ciaddr" Feld der DHCPINFORM Nachricht gegebene Adresse. Der Server MUSS dem Client keine Ablauffrist senden und SOLLTE "yiaddr" NICHT ausfüllen.
