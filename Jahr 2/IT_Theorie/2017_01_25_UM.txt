@@ -45,7 +45,7 @@ DHCPREQUEST
   Der Client fordert (eine der angebotenten) IP Adressen weitere Daten sowie eine Verlängerung
   der Leasezeit von einem der antwortenden DHCP Server
 DHCPACK
-  Bestätigung des DHCP Servers zu einer DHCPREQEUST Anforderun
+  Bestätigung des DHCP Servers zu einer DHCPREQEUST Anforderung
 DHCPNAK
   Ablehung einer DHCPREQUEST Anforderung durch den DHCP Server
 DHCPDECLINE
