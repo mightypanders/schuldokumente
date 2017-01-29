@@ -47,3 +47,10 @@ Veerbung
 Konstruktor
   initialisiert alle Attribute einer klasse mit Werten
   er gibt die instanz der Klasse zurück; ein Objekt
+
+Polymorphie
+  Methode: in verschiedenen Klassen implementiert, die das Basisinterface tragen, aber die konkrekte
+  Ausgestaltung der Methode ist immer anders.
+    mehrmalige Implementierung mit gleichem Bezeichner, es wird aus dem Kontext entschieden, welche
+    gewählt werden muss.
+  

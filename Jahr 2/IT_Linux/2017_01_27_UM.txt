@@ -1,0 +1,76 @@
+Was haben wir eigentlich gemacht?
+
+Fragen zur Ermittlung der Anforderungen an einen Webservers
+
+was soll der server bereit stellen?
+soll die seite reine informationsquelle sein oder interaktion bieten?
+soll sich der inhalt häufig ändern oder ist die Webseite statisch?
+(wenn es eine gibt)
+welche aufgabe soll der server erfüllen?
+Welcher
+
+Generelles Vorhaben?
+  größerer Handwerksbetrieb, Lebensmittelhandwerk, Bäcker
+  über Betrieb informieren, Wo bin ich, Standort, Informationsquelle
+Geplantes Budget?
+  Trennen Entwicklung, keine Investition in Lizenz und Software
+Abnahmekriterien
+  wenns Kunde gefällt
+Domain vorhanden?
+  Nein, wird benötigt
+Wartungsverträge für spätere Änderungen?
+  na klar, keine eigene IT Abteilung aufbauen
+Projektdauer?
+  "deutlich vor Ende des Schuljahres" 1.Woche Letzter Block
+Interaktive Elemente
+
+Bilder darstellen? Galerie, Slideshow?
+  kurze kleine Artikel, kurze Text, dazu Bilder, keine Galerie
+  maximal 100 Bilder
+  Struktur: Main Page, filialen, Produkte (9 Unterseiten)
+CMS?
+  Nein, Wartung und Pflege übernimmt der Kunde nicht
+responsive?
+  Nein
+Produkttestserver?
+  nein
+Emailadresse?
+  nein
+clusterbar?
+  nein
+
+Zugriffe pro Tag?
+  10.000 1,5 HTTP GET/s
+Vorhandene Hardware?
+  i5, 4GB RAM, 1 TB HDD, 1Gbit Ethernet
+
+vorgeschlagene Software
+  komisch. Linux Unterricht. Vielleicht irgendein Linux?
+  Apache2 Webserver.
+
+Reasons to use Linux
+  License cost free
+  Easy to manage
+  scalable
+
+Webserver
+  nginx
+  jetty/grizzly
+  ->apache2<-
+
+was sollte ein administrator eines OS können?
+  Rechteverwaltung
+  -Nutzerverwaltung
+  Updates
+  -Software installieren
+  Konfigurieren
+  Fehler finden
+  Sicherheit gewährleisten
+  -Umgang CLI
+  Aktuelles Grundwissen
+  Monitoring
+  Backups
+  Verwaltung/Partitionierung/Laufwerke verwalten
+  -Grundsätzliche Struktur Dateisystem
+  -Hilfeseiten/-funktionen nutzen können (man)
+  
