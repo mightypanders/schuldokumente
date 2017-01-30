@@ -9,11 +9,16 @@
     komplett neue Produkte (**Diversifikation**)<br>
     neue Produkte einer bestehende Reihe (**Produktdifferenzierung**)<br>
   Bestimmt durch Fragen der Bereiche:<br>
-    Design, Form und Farbe: Zielgruppenfokus durch verschiedene Gestaltung<br>
-    Qualität: Kunststoff vs Holz spricht verschiedene Käufergruppen an<br>
-    Markierung: Der Name spielt eine wichtige Rolle: kein Parfum "Irish Mist" in Deutschland!<br>
-    Verpackung: Werbe und Informationsfläche<br>
-    Gebrauchsdauer: Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
+### Design, Form und Farbe:
+Zielgruppenfokus durch verschiedene Gestaltung
+### Qualität:
+Kunststoff vs Holz spricht verschiedene Käufergruppen an<br>
+### Markierung:
+Der Name spielt eine wichtige Rolle: kein Parfum "Irish Mist" in Deutschland!<br>
+### Verpackung:
+Werbe und Informationsfläche<br>
+### Gebrauchsdauer: 
+Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
 ## Horizontale Diversifikation:
   Produkt entstammt gleicher Wirtschaftsstufe, hebt sich aber vom bisherigen Angebot ab<br>
   Fahrradhersteller bietet Roller an.
