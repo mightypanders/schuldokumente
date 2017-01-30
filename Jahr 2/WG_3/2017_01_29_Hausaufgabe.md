@@ -17,7 +17,7 @@ Kunststoff vs Holz spricht verschiedene Käufergruppen an<br>
 Der Name spielt eine wichtige Rolle: kein Parfum "Irish Mist" in Deutschland!<br>
 ### Verpackung:
 Werbe und Informationsfläche<br>
-### Gebrauchsdauer: 
+### Gebrauchsdauer:
 Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
 ## Horizontale Diversifikation:
   Produkt entstammt gleicher Wirtschaftsstufe, hebt sich aber vom bisherigen Angebot ab<br>
@@ -42,7 +42,7 @@ Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
 # Sortimentsumfang:
   Gesamtzahl der verschiedenen Artikel
 # Aufgabe:
-  Erweiterung der Produktlinie um "Apfel" -> **Differenzierung**, Verbreiterung des Sortiments<br>
+  Erweiterung der Produktlinie um "Apfel" -> **Differenzierung**, ~~Verbreiterung~~ Vertiefung des Sortiments<br>
   Spirituosenverkäufer mit 30 Weinen -> **Tiefes Sortiment**<br>
   Kaffehändler bietet Haushaltgeräte und Freizeitartikel an -> **laterale Diversifikation**, Breite<br>
   Supermarkt -> **Breites Sortiment**<br>
