@@ -13,14 +13,14 @@
     Qualität: Kunststoff vs Holz spricht verschiedene Käufergruppen an<br>
     Markierung: Der Name spielt eine wichtige Rolle: kein Parfum "Irish Mist" in Deutschland!<br>
     Verpackung: Werbe und Informationsfläche<br>
-    Gebrauchsdauer: Möglichst lange, oder lange genug, damit der Kunde wieder kommt?<br>
-  ## Horizontale Diversifikation:
+    Gebrauchsdauer: Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
+## Horizontale Diversifikation:
   Produkt entstammt gleicher Wirtschaftsstufe, hebt sich aber vom bisherigen Angebot ab<br>
   Fahrradhersteller bietet Roller an.
-  ## Vertikale Diversifikation:
+## Vertikale Diversifikation:
   Produkt repräsentiert eine vor- oder nachgelagerte Wirtschaftsstufe<br>
   Fahrradhersteller betreibt Fahrradgroßhandel
-  ## Diagonale/Laterale Diversifikation:
+## Diagonale/Laterale Diversifikation:
   produkt hat keinen Zusammenhang zum bisherigen Sortiment<br>
   Fahrradherstellt bietet Tiefkühlkost an.
 # Produktvariation - Frischer Wind!
