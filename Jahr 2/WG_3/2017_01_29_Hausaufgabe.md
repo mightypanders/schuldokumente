@@ -28,18 +28,18 @@ Möglichst lange, oder lange genug, damit der Kunde wieder kommt?
 ## Diagonale/Laterale Diversifikation:
   produkt hat keinen Zusammenhang zum bisherigen Sortiment<br>
   Fahrradherstellt bietet Tiefkühlkost an.
-# Produktvariation - Frischer Wind!
+## Produktvariation - Frischer Wind!
   Änderung eines bestehenden Produktes um andere Käuferbereiche anzusprechen<br>
     Namens-, Funktionsumfangsänderungen bspw.
-# Produktherausnahme - Wenn es gar nicht mehr geht...
+## Produktherausnahme - Wenn es gar nicht mehr geht...
   Mehrkosten vermeiden, wenn ein Produkt nicht abgesetzt wird.<br>
   Produktelimination
-# Sortimentsbreite und -tiefe
+## Sortimentsbreite und -tiefe
   Breite:
     verschiedene Produktgruppen<br>
   Tiefe:
     Anzahl an Varianten einer Produktgruppe
-# Sortimentsumfang:
+## Sortimentsumfang:
   Gesamtzahl der verschiedenen Artikel
 # Aufgabe:
   Erweiterung der Produktlinie um "Apfel" -> **Differenzierung**, ~~Verbreiterung~~ Vertiefung des Sortiments<br>
