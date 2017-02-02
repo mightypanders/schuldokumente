@@ -1,0 +1,25 @@
+HAVING bezieht sich nicht auf die eigentlichen Daten, bei aggregatfunktionen
+WHERE bei allem anderen
+
+Lassen sie alle Kundendaten anzeigen, bei denen im Nachnamen die Zeichenfolge "oe","ö" oder "öe" enthalten ist. Nicht Case Sensitive
+
+select *
+from Kunde
+where KName like '%ö%' or KName like '%oe%' or KName like '%öe%'
+
+Lassen sie alle Orte und die Anzahl der Kunden aus dem jeweiligen Ort ausgeben.
+Die Sortierung soll nach Anzahl der vorhandenen Kunden innerhalb der aufgelisteten Orte absteigend erfolgen.
+
+select KOrt, count(KId) as Kundenzahl
+from Kunde
+group by KOrt
+order by Kundenzahl
+
+Lassen sie die Namen der Kunden und die Lieferanten inklusive der Orte in einer Tabelle anzeigen.
+Die Sortierung soll nach Name absteigend erfolgend.
+
+select k.kid as ID, k.name as Name, k.ort as Ort
+from Kunde
+union all
+select l.lid,l.firma as name,l.ort
+from lieferant

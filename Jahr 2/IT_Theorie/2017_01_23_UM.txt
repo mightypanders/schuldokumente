@@ -1,0 +1,8 @@
+DHCP Layer 7
+-> aktivierung DHCP Dienst
+gegeben : 192.168.1.0\24
+subnetzmaske: 11111111.11111111.11111111.00000000
+              Netzteil                    Hostteil
+Netzaddr. 192.168.1.0
+Bereich: 192.168.1.1 - 192.168.1.254
+Broadcastaddr.  192.168.1.255
