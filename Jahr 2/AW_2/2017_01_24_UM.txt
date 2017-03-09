@@ -1,2 +1,0 @@
-Aggregatfunktionen
-select sum(gehalt) as gehaltssumme from personal
