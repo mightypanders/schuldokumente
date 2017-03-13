@@ -13,7 +13,7 @@
 - Layer 2
 - Segmentierung innerhalb einer Broadcastdomäne
 - Besitzt Logik, Speicher, Memory
-- MAC-Address Tabelle (__S__ource __A__dress __T__able) __= SAT__
+- MAC-Address Tabelle (Source Adress Table) = SAT
  - Learning: Switch trägt Absenderadresse ein (falls unbekannt)
  - Flooding: Sendet Pakete an alle Ports weiter, wenn Ziel MAC unbekannt ist
    - Kontrast Broadcast: an alle angeschlossenen Geräte außer Sender, wenn Broadcastadresse im Frame angegeben ist.
