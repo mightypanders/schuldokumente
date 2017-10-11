@@ -1,5 +1,5 @@
 ---
-geometry: margin=0.8in
+geometry: margin=1in
 ---
 # Grundbegriffe Softwaretesting 
 
