@@ -65,3 +65,22 @@ Projektmanagement
                 - Ergebnis/Qualität
                 - Dauer/Termine
                 - Aufwand/Kosten
+        6. [Antrag](./Material/2017_10_17_Projektantrag_Beispiel.pdf)
+        7. [Phasen eines Projektes](./Material/2017_10_17_Projektphasen.pdf)
+2. Projektplanung
+    - Def. geistige Vorwegnahme zukünftigen Handelns(-> Projektdurchführung)
+    1. Aufgabenplanung
+        - Methoden:
+            - Baumstruktur  
+            - ![](./Material/20171017_Baumstruktur.jpg){width=250px}
+        - [Material zur Aufgabenplanung](./Material/2017_10_17_Projektplanung.pdf)
+        - Aufgaben Orientierung  
+        - ![](./Material/20171017_Aufgabenorientierung.jpg){:width=150px}
+        - Projektablaufplan
+        - ![](./Material/20171017_PAP.jpg){width=150px}
+    2. Terminplanung
+        1. Gantt
+            - [Material](./Material/2017_10_17_Gantt.pdf)
+            - [Aufgabe 1](./Material/20171017_Gantt_Aufgabe1.ods)
+            - **Aufgabe 2:** 26 Arbeitstage -> läuft bis 20. Juli 20...
+            - **Aufgabe 3:** 
