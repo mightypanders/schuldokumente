@@ -55,6 +55,22 @@ oder
 Require user schueler ==> Schaltet nur schueler frei
 ```
 
+## Authentifizierung über die zentrale Datei (z.B. 000-default)
+```
+<Directory /var/www/html>
+Options Indexes FollowSymLinks MultiViews
+AllowOverride None
+Order allow,deny
+allow from all
+</Directory>
+```
+```
+order <reihenfolge>
+```
+```
+allow from host host # Whitelist 
+deny from host host  # Blacklist
+```
 
 # SSL-Konfiguration
 
