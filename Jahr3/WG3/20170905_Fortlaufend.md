@@ -88,3 +88,6 @@ Projektmanagement
         - qualitative und quantitative Personalplanung
         - Personaleinsatzplanung
         - [Gewichtungsverfahren](./Material/20180130_Gewichtungsverfahren.pdf)
+    4. Kostenplanung
+        - [Kosten Nutzen Analyse](./Material/20180206_KostenNutzen.pdf)
+        - [Nutzwert Analyse](./Material/20180206_Nutzwert.pdf)
