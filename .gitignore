@@ -1,2 +1,4 @@
 PDF/.images/
 .vscode/settings.json
+PDF/*
+*.ocr

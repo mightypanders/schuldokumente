@@ -84,3 +84,10 @@ Projektmanagement
             - [Aufgabe 1](./Material/20171017_Gantt_Aufgabe1.ods)
             - **Aufgabe 2:** 26 Arbeitstage -> läuft bis 20. Juli 20...
             - **Aufgabe 3:** 
+    3. Personalplanung
+        - qualitative und quantitative Personalplanung
+        - Personaleinsatzplanung
+        - [Gewichtungsverfahren](./Material/20180130_Gewichtungsverfahren.pdf)
+    4. Kostenplanung
+        - [Kosten Nutzen Analyse](./Material/20180206_KostenNutzen.pdf)
+        - [Nutzwert Analyse](./Material/20180206_Nutzwert.pdf)
