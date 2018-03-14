@@ -91,3 +91,26 @@ Projektmanagement
     4. Kostenplanung
         - [Kosten Nutzen Analyse](./Material/20180206_KostenNutzen.pdf)
         - [Nutzwert Analyse](./Material/20180206_Nutzwert.pdf)
+    5. Sonstige Planung
+        - Sachmittelplanung
+            - Lizenzen
+        - Dokumentenplanung 
+            - (z.B. Pflichten-, Lastenheft, ISO 9000, Kundendokumentation, etc.)
+        - Berichtsplanung
+            - Benennen der Adressaten und Berichtsrhythmus
+            - Berichtsarten: z.B. Meilensteine, Fortschrittsbericht, Review
+3. Projektorganisation
+    - Beteilige (JB Lenkungsausschuss)
+        - ![Lenkungsauschuss](./Material/20180313_Lenkungsausschuss.jpg)
+    - Projektleiter
+        - Aufgaben
+        - Kompetenzen
+    - Projektteam
+        - Auswahlmethoden (z.B. Tests)
+        - Kick Off Meetings
+            - Projektvorstellung
+            - Projektziele/-nutzen
+            - Benennung der Ansprechpartner
+            - Grobe Zuteilung der Aufgaben (zeitlicher Ablauf)
+            - Vorstellung der Mitglieder
+        - Ergebnissicherung über Protokolle
