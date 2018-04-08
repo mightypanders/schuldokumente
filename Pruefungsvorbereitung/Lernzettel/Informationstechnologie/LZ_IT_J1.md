@@ -167,3 +167,10 @@ Speicherwerk
     - keine saubere Sinuswelle 
 
 # Parität
+- Prüfverfahren um etwaige Fehler bei einer Datenübertragung zu entdecken.
+- simpelstes Verfahren: Ergänzung eines Datenworts auf gerade bzw ungerade Anzahl von "1"
+### Beispiel
+`11001101`  
+- Ergänzung auf gerade Parität:  `11001101 1`  
+ da vorher 5 "1" vorhanden waren, Ergänzung um 1*"1" -> 6 -> gerade Anzahl  
+- Ergänzung auf ungerade Parität:  `11001101 0` 
