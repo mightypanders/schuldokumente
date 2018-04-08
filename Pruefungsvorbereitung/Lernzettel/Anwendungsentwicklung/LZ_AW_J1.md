@@ -61,6 +61,26 @@
 [Notation](../../..//Jahr1/Anwendungsentwicklung/Material/Datenflussplan_Notation_1.pdf)
 
 ## Programmiersprachentypen
+### Arten
+#### Programmiersprache
+- formale künstliche Sprache
+- erstellt Datenstrukturen
+- menschenlesbar, maschinenverarbeitbar
+#### Assemblersprache
+- spezialsiert auf bestimmte Hardware
+- Prozessorarchitekturen
+- einfache Mathematik
+#### Datenbanksprache
+- Untermenge für DBS
+- DDL, DML, DCL
+- Interagiert mit Daten in einer Datenbank
+#### Auszeichnungssprache
+- maschinenlesbar für Gliederung von Daten & Dokumenten
+- beschreibt Zeichen, Wörter, Absätze
+#### Skriptsprache
+- kleinere Programme über Interpreter ausgeführt
+- kein Deklarationszwang in den meisten Fällen
+- ausgeliefert in Quelltextdateien, nicht kompiliert
 ### Interpreter
 ### Compiler
 
