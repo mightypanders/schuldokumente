@@ -174,3 +174,70 @@ Speicherwerk
 - Ergänzung auf gerade Parität:  `11001101 1`  
  da vorher 5 "1" vorhanden waren, Ergänzung um 1*"1" -> 6 -> gerade Anzahl  
 - Ergänzung auf ungerade Parität:  `11001101 0` 
+
+# EMV
+- elektromagnetische Verträglichkeit
+- kann elektrische Geräte stören oder zerstören
+## EMVU
+- EMV in der Umwelt
+- Wirkung von EM Feldern auf biologische System (Menschen, Tiere, Pflanzen)
+## EMVG
+- EMV von Geräten
+- Fähigkeit eines Gerätes in der elektromagnetischen Umwelt zufriedenstellend zu arbeiten
+- keine Erzeugung von EM Strahlung die schädlich für andere ist
+## Störfestigkeit
+- einwandfreie Funktionalität während einer EM Störung von außen
+## Störaussendung
+- Erzeugung von störenden EM Feldern
+## Schutz vor EM Strahlung
+- Geräte nach Benutzung ausschalten
+- Standby Ausschalten
+- Röhren Geräte austauschen
+
+# Prüfsiegel
+## CE
+- Vom Hersteller vergeben
+- garantiert Einhaltung der EU Richtlinien
+    - Sicherheit
+    - EMV
+    - Maximaler Energieverbraucht
+- **Pflicht** in EU
+
+## FCC
+- von der Federal Communication Comission vergeben
+- keine Radiofrequenzinterferenzen
+- EVM
+    - kein Störer
+    - nicht störanfällig
+## DGUV
+- Deutsche Gemeinschaft der Unfallversicherungen
+    - Berufsgenossenschaft
+- Ergonomische, Schadstofffreie Arbeitsmittel
+- Gesundheitsschutz, Sicherheitsschutz
+
+## TCO Certified
+- vergeben von TCO
+- Soziales und Umwelt
+- EMV
+- Bildqualität
+
+## UL Classified
+- Underwriters Laboratories
+- **Pflicht** in USA
+- OSHA Standards
+- Sicherheit
+
+## GS
+- Geprüfte Sicherheit
+- Vergeber
+    - GS Prüfstelle
+    - TÜV
+    - DEKRA
+    - DGUV
+- garantiert Schutz von Gesunheit und Sicherheit
+- DIN & EN Compliance
+
+## energyStar
+- vom Hersteller
+- niedriger Energieverbrauch
+- erfüllt Stromsparkriterien der EPA / ES
