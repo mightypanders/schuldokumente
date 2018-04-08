@@ -11,8 +11,26 @@
 - exakt und vollständig beschreiben
     - Folge von Anweisungen ergibt eine eindeutige Vorschrift zur Lösung des Problems
     - das Problem ist **nicht** nur teilweise gelöst
+## Variable
+- Speicheradresse und Symbol (Bezeichner)
+- Wert an Speicheradresse kann über Symbol im Programm angesprochen werden
+- Platzhalterfunktion: Name kann unabhängig vom Wert der Variablen verwendet werden
+### Eigenschaften von Variablen
+1. Bezeichner
+2. Datentyp
+3. Wert
+### Verwendung von Variablen
+1. Deklaration
+    - Einführung, meist vor der ersten Verwendung zwingend nötig (Ausnahmen sprachenabhängig)
+2. Wertzuweisung
+    - Dem Platzhalter wird ein Wert zugewiesen
+3. Wertzugriff
+    - Verwendung des Wertes der an der Speicheradresse hinterlegt ist.
 ## Datentypen
 - definieren Wertebereiche und damit auch erlaubte Operationen (implizit)
+- bspw. `string` definiert eine alphanumerische Zeichenkette, `int` definierte eine ganzzahligen Wert
+- `int` Werte können addiert werden, während `string` Werte aneinandergehängt werden wenn der `+` Operator verwendet wird
+
 ## Operatoren
 ### Arithmetisch
 `+ - * /`
@@ -120,7 +138,31 @@ for (;;)
     /*verlassen mit */ break;
 }
 ```
+## Arrays in C#
+- Folgen von Elementen mit dem selben Datentyp
+### Deklaration und Erstellung
+``` csharp
+ string[] text = new string[3];
+```
+### Zuweisung der Elemente
+> Index beginnt bei "0", endet bei Array.Length - 1
 
+```csharp
+text[0] = "foo";
+```
+### Auslesen der Werte
+```csharp
+string text = text[0];
+```
+-> `text` enthält nun "foo"
+### Iteration
+```csharp
+for (int i = 0;i<text.Length;i++)
+{
+    Console.WriteLine(text[i]);
+}
+```
+Ausgabe aller Werte in `text` in die Konsole
 ## Prozedurale Programmierung
 - Aufgaben können in Unterprozeduren aufgeteilt werden
 - Prozeduren operieren auf dem selben Datenraum
