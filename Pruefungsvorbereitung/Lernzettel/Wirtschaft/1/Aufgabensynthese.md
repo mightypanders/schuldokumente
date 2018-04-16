@@ -18,3 +18,8 @@ hat Anordnungs- und Entscheidungsbefugnisse gegenüber niedriger rangigen Stelle
 ## Stabsstelle
 Hilfsstelle der Instanz. Berät und Informiert. Keine Entscheidungsgewalt.
 # Abteilungsbildung
+## Gründe für Bündelung
+- überschaubare und leicht kontrollierbare Bereiche
+- Struktur
+- Übersichtlichkeit
+- Spezialisierung auf Aufgabenkomplexe
