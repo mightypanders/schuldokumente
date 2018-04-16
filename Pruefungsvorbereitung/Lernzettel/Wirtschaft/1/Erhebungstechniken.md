@@ -1,0 +1,99 @@
+# Erhebungstechnicken
+
+## Gruppe 1:
+- Dokumentenstudium
+  -  Aktualität wichtig damit keine veralteten Informationen Beobachtet werden
+  -  Aussagefähigkeit, Vollständigkeit prüfen
+- Beobachtung
+  -  bewusste Beobachtung verfälscht Ergebnisse, aber ungewusst: Illegal
+  -  Zustimmung vom betriebsrat meist nötig
+  -  alle sinnlich aufnehmbaren Sachverhalte aufnehmen
+  -  Prozesse + Sachverhalte aufnehmen
+- Dauerbeobachtung
+  -  Beobachtungskategorien
+  -  einheitliche Erfassung + Auswertung
+- Multimomentstudie
+  -  festgelegte Woche in der die Beobachtung stattfinden wird
+  -  Stichprobenartige Beobachtung
+- Selbstaufschreibung
+  - Tagesbericht erstellen
+  - Unstrukturierte Selbstaufschreibung
+    - enthält eigene Worte
+  - strukturierte Selbstaufschreibung
+    - Formular enthält Mengen + Zeitgerüst
+- Laufzetteltechnik
+  - Laufzettel wir an Informationsträger gehftet
+    - beteiligung, schnittstellen, arbeitsprozess vor Laufzettelaktion bekannt
+
+## Gruppe 2:
+- Interview
+  - psychologische Belastung minimieren
+  - positives Gesprächsklima (<= 2 Personen)
+  - in vertrauter Umgebung
+  - stichwortartige Fixierung, mehr würde Fluß stören
+  - vorbereiteter Leitfaden
+  - 30-45 min, bei mehr -> Pausen
+  - standardisiertes Interview
+    - genauer Fragenkatalog
+    - schrittweises Vorgehen
+    - kann von laien durchgefürht werden
+- halbstandardisiertes Interview
+  - fester Themenblock
+  - flexible Fragen
+- nicht-standardisiertes Interview
+  - stichwortartiger Leitfaden
+  - braucht geschulten Interviewer
+- Interviewformen
+  - weich
+    - angenehme Athmosphäre
+    - hilfreicher Interviewer
+    - persönliche Beziehung / Vertrauen
+  - hart
+    - Verhörsituation
+    - Befragten aus der Reserver locken
+  - neutral
+    - freundlich aber zurückhalten
+    - sachzielorientiert
+    - hilfreich, aber kein eigener Standpunkt vom Interviewer
+- Phasen des Interviews
+  - Einleitung
+    - Begrüßung
+    - Begründung für Interview
+  - Sachliche Erhebung
+    - Sammlung von Informationen
+    - gezielte Ist Zustand Erhebung
+    - Stärken, Schwächen, Ursachen & Lösungen
+
+    - KROKUS
+      - Kurze Fragen
+      - Redundante Fragen vermeiden
+      - Offene Fragen stellen
+      - Konkrete Fragen stellen
+      - Unterfragen vermeiden
+      - suggestive Fragen vermeiden
+  - Ausklang
+    - Ausblick, weiteres Vorgehen erläutern
+- Fragebogen
+  - vergleichbar mit standardisiertem Interview
+   - Fragen werden schriftlich festgehalten und versandt
+   - geschlossene Fragen mit Antwortmöglichkeiten stehen im Vordergrund
+   - offene Fragen für Anregungen
+- eignet sich besonders für quantivtative Sachverhalte, große Menge an Befragten
+  - homogener Kreis der Befragten
+- wahrt Anonymität
+- Ablauf
+  - Entwurf -> Probelauf -> Korrekturfassung -> Lauf -> Auswertung
+  - Entwurf: formulierung von eindeutigen Fragen, Erstellung eines Begleitbriefs
+  - Probelauf: Test auf Verständlichkeit
+  - Korrekturfassung: Überarbeitung anhand der Kritikpunkte
+- Schreiben muss non-provokativ sein, Versicherung der Vertrauchlichkeit
+
+
+
+- Multimomentstudie
+  - erwartung:
+   - Kundengespräche
+   - Kundendatenpflegen
+   - Rechnungen Schreiben
+   - Angebote erstellen
+   - Kaffe trinken
