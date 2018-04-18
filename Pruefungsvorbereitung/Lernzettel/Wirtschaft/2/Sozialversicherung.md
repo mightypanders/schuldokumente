@@ -11,7 +11,10 @@
 |Stellung im <br>Produktionsprozess|Besitz von Produktionsmitteln|Kein Besitz von Produktionsmitteln <br>-> Verkauf der Arbeitskraft|
 |Klassenlage|wohlhabend<br> belesen,<br> gebildet,<br> medizinisch Versorgung,<br> Arbeiter unterdrückt|Hungerlöhne,<br> Armut,<br> Unterdrückung,<br> Schlechte Arbeitsbedingungen,<br>hohe Lebensrisiken,<br> keine Absicherung,<br> keine Bildung,<br> Schlechte medizinische Versorgung|
 |Klasseninteresse|Beibehaltung der Verhältnisse|Umsturz der Verhältnisse|
-|Prognose <td colspan=2 align="center">__Klassenkampf__||
+|Prognose<td colspan=2 align="center">__Klassenkampf__</td>
+
+- [ ] figuring out the github Markdown Table Syntax
+- [x] tearing my hair out
 
 #### Ständegesellschaft
 1. Stand: Klerus
