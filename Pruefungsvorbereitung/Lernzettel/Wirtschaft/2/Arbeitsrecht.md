@@ -69,3 +69,8 @@ Bezeichnung der Betriebe die ihrer Art nach in die Gültikeit fallen. (bspw. Eis
 ### Persönlich
 bestimmte Arbeitnehmer (zb alle kaufmännischen oder gewerblichen Angestellten)
 ## Gültigkeit
+- AG ist Mitglied im AG Verband oder
+- AG hat Tarivertrag selber unterzeichnet
+- und   
+- AN Mitglied in Gewerkschaft unter Tarifvertrag
+
