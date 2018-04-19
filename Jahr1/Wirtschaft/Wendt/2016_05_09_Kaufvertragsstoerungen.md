@@ -1,0 +1,4 @@
+# Schlechtleistung
+# Lieferungsverzug
+# Annahmeverzug
+# Zahlungsverzug
