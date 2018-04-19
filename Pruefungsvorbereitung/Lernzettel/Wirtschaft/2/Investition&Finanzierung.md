@@ -28,8 +28,14 @@
 - Kreditnehmer kann innerhalb einer Periode bis zu einer gewissen Summe Kredit in Anspruch nehmen
 - Kontokorrent (laufende Rechnung)
     - vereint viele kleine Ansprüche auf einen einzigen
+- [mehr lesen](KontoKorrent.md)
 ## Liefererkredit
 - Bei Verlängerung des Lieferziels, handelt es sich um kurzfristiges Kapital
+## Lieferantenkredit
+- Eingangsrechnung hat 2 Zahlungsziele
+- Ziel 1 räumt Skonto Abzug ein
+- Käufer wählt Ziel 2 ohne Skonto
+- effektiv ist ab Zahlungsziel 1 die geschuldete Summe ein Kredit mit Skonto Betrags als "Zins"
 ## Schuldwechsel
 - Bezogener erhält Zahlungsziel zum Verfallstag.
 # Eigenfinanzierung (extern)
