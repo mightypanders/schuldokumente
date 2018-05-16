@@ -29,3 +29,17 @@ Mit dem Aufruf des obigen Beispiels wird folgender Inhalt erstellt
 ```
 Die erste Zeile führt jeden Montag um 10:30 Uhr ein vollständiges Backup der Ordner `/etc` und `/opt` durch.  
 Die zweite Zeile führt jeden Tag um 10:30 Uhr ein inkrementelles Backup der selben Ordner durch.
+
+Das Installationsscript kopiert die Datei `hnbkbackupscript` in den Ordner `/usr/local/bin`. An diesem Ort kann systemweit auf sie zugegriffen werden.  
+Ebenfalls wird die Datei als ausführbar deklariert.
+
+## Deinstallation
+Um das regelmäßige Backup zu deaktivieren löschen sie die Crontab Datei mit folgendem Befehl
+```bash
+sudo rm /etc/cron.d/hnbkbackup
+```
+Für diese Operation sind Administrator Berechtigungen erforderlich.  
+Soll das gesamte Script von der Maschine entfernt werden, müssen sie noch die ausführbare Datei löschen. Dies geschieht mit folgendem Kommando
+```bash
+sudo rm /usr/local/bin/hnbkbackupscript
+```
